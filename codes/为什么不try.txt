@@ -1,0 +1,2915 @@
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/t1/l_gxz0s51l38c9bnc2qyfrn80000gn/T/jieba.cache
+Loading model cost 1.067 seconds.
+Prefix dict has been built succesfully.
+begin:2018-03-01, end:2018-07-02, length:124
+108194.txt - breakout reviews num:4463
+begin:2016-08-01, end:2018-07-09, length:708
+108251.txt - breakout reviews num:465
+begin:2013-07-15, end:2018-07-03, length:1815
+begin:2013-10-11, end:2018-07-07, length:1731
+begin:2013-10-19, end:2018-07-04, length:1720
+185667.txt - breakout reviews num:1520
+begin:2014-01-02, end:2018-07-16, length:1657
+185700.txt - breakout reviews num:1285
+begin:2015-05-29, end:2018-06-17, length:1116
+185912.txt - breakout reviews num:907
+begin:2013-06-28, end:2018-07-08, length:1837
+18794219.txt - breakout reviews num:247
+begin:2013-05-08, end:2018-07-05, length:1885
+begin:2016-03-29, end:2018-07-14, length:838
+224000.txt - breakout reviews num:1897
+begin:2013-08-13, end:2018-07-02, length:1785
+begin:2013-11-14, end:2018-07-13, length:1703
+22660279.txt - breakout reviews num:1088
+begin:2014-02-13, end:2018-07-09, length:1608
+2417029.txt - breakout reviews num:1475
+begin:2014-07-20, end:2018-06-27, length:1439
+begin:2015-10-06, end:2018-07-13, length:1012
+25706279.txt - breakout reviews num:2164
+begin:2018-05-23, end:2018-07-09, length:48
+25706282.txt - breakout reviews num:4792
+begin:2013-05-14, end:2018-07-04, length:1878
+begin:2013-06-07, end:2018-06-27, length:1847
+begin:2014-10-11, end:2017-11-01, length:1118
+begin:2013-05-02, end:2018-07-10, length:1896
+begin:2018-05-09, end:2018-06-27, length:50
+26092806.txt - breakout reviews num:4241
+begin:2013-12-31, end:2018-07-02, length:1645
+26470630.txt - breakout reviews num:929
+begin:2014-02-07, end:2018-07-08, length:1613
+begin:2014-12-02, end:2018-07-11, length:1318
+begin:2013-09-04, end:2018-07-03, length:1764
+274686.txt - breakout reviews num:484
+begin:2013-09-02, end:2018-07-09, length:1772
+begin:2015-02-27, end:2018-06-27, length:1217
+27646409.txt - breakout reviews num:10838
+begin:2015-01-25, end:2018-07-02, length:1255
+begin:2014-03-18, end:2018-07-12, length:1578
+begin:2014-01-13, end:2018-07-15, length:1645
+27713922.txt - breakout reviews num:611
+begin:2013-11-16, end:2018-07-16, length:1704
+begin:2016-12-23, end:2018-07-18, length:573
+27946894.txt - breakout reviews num:3810
+begin:2016-06-30, end:2018-07-02, length:733
+begin:2013-11-21, end:2018-07-16, length:1699
+28009051.txt - breakout reviews num:1009
+begin:2014-10-17, end:2018-06-26, length:1349
+28068286.txt - breakout reviews num:898
+begin:2014-05-11, end:2018-01-17, length:1348
+28226049.txt - breakout reviews num:207
+begin:2014-04-02, end:2018-07-09, length:1560
+28267044.txt - breakout reviews num:227
+begin:2014-04-18, end:2018-07-04, length:1539
+begin:2014-12-04, end:2018-07-14, length:1319
+begin:2014-08-25, end:2018-07-04, length:1410
+28315997.txt - breakout reviews num:1162
+begin:2016-08-07, end:2018-07-02, length:695
+28358233.txt - breakout reviews num:1333
+begin:2014-04-04, end:2018-05-29, length:1517
+begin:2015-09-08, end:2018-07-12, length:1039
+begin:2015-07-15, end:2018-07-05, length:1087
+28652948.txt - breakout reviews num:1063
+begin:2013-06-17, end:2018-07-04, length:1844
+286970.txt - breakout reviews num:827
+begin:2014-11-26, end:2018-07-14, length:1327
+286980.txt - breakout reviews num:269
+begin:2014-06-25, end:2018-07-04, length:1471
+28700951.txt - breakout reviews num:1150
+begin:2018-05-27, end:2018-07-11, length:46
+287035.txt - breakout reviews num:6564
+begin:2014-07-12, end:2017-11-01, length:1209
+28768107.txt - breakout reviews num:279
+begin:2015-06-13, end:2018-07-13, length:1127
+28786809.txt - breakout reviews num:1258
+begin:2014-07-11, end:2018-07-17, length:1468
+28793502.txt - breakout reviews num:548
+begin:2018-05-29, end:2018-07-09, length:42
+28815250.txt - breakout reviews num:6954
+begin:2014-08-19, end:2018-06-24, length:1406
+begin:2014-08-02, end:2018-06-30, length:1429
+28850212.txt - breakout reviews num:1484
+begin:2015-12-11, end:2018-07-02, length:935
+28854182.txt - breakout reviews num:1197
+begin:2014-08-13, end:2018-06-28, length:1416
+begin:2014-08-20, end:2018-07-16, length:1427
+begin:2014-08-30, end:2018-07-17, length:1418
+28968068.txt - breakout reviews num:347
+begin:2014-08-21, end:2018-06-28, length:1408
+begin:2014-09-10, end:2018-07-11, length:1401
+begin:2014-09-30, end:2018-07-16, length:1386
+begin:2015-07-03, end:2018-07-05, length:1099
+begin:2015-11-03, end:2018-07-10, length:981
+begin:2015-06-08, end:2018-07-01, length:1120
+begin:2016-03-10, end:2018-06-29, length:842
+begin:2014-12-09, end:2018-07-14, length:1314
+29753832.txt - breakout reviews num:210
+begin:2016-11-16, end:2018-07-05, length:597
+begin:2015-03-06, end:2018-06-27, length:1210
+begin:2015-09-05, end:2018-07-07, length:1037
+begin:2015-04-07, end:2018-04-04, length:1094
+29848288.txt - breakout reviews num:1442
+begin:2016-05-23, end:2018-07-10, length:779
+begin:2015-01-20, end:2018-07-09, length:1267
+begin:2015-01-16, end:2018-07-09, length:1271
+30089063.txt - breakout reviews num:2672
+begin:2015-01-23, end:2018-07-06, length:1261
+30245576.txt - breakout reviews num:503
+begin:2015-01-25, end:2018-06-28, length:1251
+begin:2015-05-06, end:2018-07-02, length:1154
+30352477.txt - breakout reviews num:2009
+begin:2015-01-27, end:2018-06-27, length:1248
+30373318.txt - breakout reviews num:748
+begin:2015-02-09, end:2018-06-26, length:1234
+30375347.txt - breakout reviews num:2334
+begin:2015-02-09, end:2018-07-16, length:1254
+30431367.txt - breakout reviews num:9027
+begin:2015-02-11, end:2018-07-10, length:1246
+30590559.txt - breakout reviews num:257
+begin:2015-03-05, end:2018-07-05, length:1219
+30841427.txt - breakout reviews num:421
+begin:2015-03-23, end:2018-06-26, length:1192
+begin:2015-04-18, end:2018-06-26, length:1166
+31356704.txt - breakout reviews num:297
+begin:2015-04-17, end:2018-07-14, length:1185
+begin:2015-07-14, end:2018-06-27, length:1080
+31653813.txt - breakout reviews num:263
+begin:2015-11-26, end:2018-07-11, length:959
+begin:2015-05-06, end:2018-06-11, length:1133
+31838205.txt - breakout reviews num:1495
+begin:2015-11-09, end:2018-07-06, length:971
+begin:2018-03-15, end:2018-07-14, length:122
+begin:2015-05-25, end:2018-06-25, length:1128
+begin:2015-12-09, end:2018-07-03, length:938
+begin:2015-05-30, end:2018-07-14, length:1142
+32358362.txt - breakout reviews num:4575
+begin:2015-06-13, end:2018-07-09, length:1123
+32544943.txt - breakout reviews num:1065
+begin:2016-05-07, end:2018-06-29, length:784
+begin:2015-07-01, end:2018-07-16, length:1112
+32924132.txt - breakout reviews num:2048
+begin:2015-07-06, end:2018-07-04, length:1095
+32977520.txt - breakout reviews num:1028
+begin:2015-07-12, end:2018-07-02, length:1087
+33004351.txt - breakout reviews num:1045
+begin:2015-07-17, end:2018-07-03, length:1083
+begin:2015-07-20, end:2018-07-09, length:1086
+begin:2015-08-08, end:2018-06-24, length:1052
+begin:2015-08-11, end:2018-07-06, length:1061
+begin:2015-08-24, end:2018-06-26, length:1038
+begin:2015-09-07, end:2018-07-15, length:1043
+34380194.txt - breakout reviews num:547
+begin:2017-02-02, end:2018-07-07, length:521
+begin:2016-04-23, end:2018-06-29, length:798
+34509586.txt - breakout reviews num:214
+begin:2015-09-18, end:2018-06-25, length:1012
+34749728.txt - breakout reviews num:976
+begin:2015-09-20, end:2018-06-25, length:1010
+begin:2018-04-25, end:2018-06-29, length:66
+34923114.txt - breakout reviews num:436
+begin:2015-10-14, end:2018-06-25, length:986
+35032769.txt - breakout reviews num:349
+begin:2016-03-13, end:2018-07-07, length:847
+35270898.txt - breakout reviews num:9912
+begin:2015-10-15, end:2018-06-24, length:984
+begin:2018-04-05, end:2018-07-03, length:90
+35476049.txt - breakout reviews num:659
+begin:2015-10-17, end:2018-07-07, length:995
+35527239.txt - breakout reviews num:217
+begin:2015-10-26, end:2018-06-27, length:976
+begin:2015-11-07, end:2018-07-02, length:969
+begin:2015-11-15, end:2018-07-01, length:960
+36668004.txt - breakout reviews num:1043
+begin:2015-11-18, end:2018-07-13, length:969
+36871044.txt - breakout reviews num:9830
+begin:2015-11-23, end:2018-06-22, length:943
+begin:2015-11-25, end:2018-06-30, length:949
+begin:2016-01-04, end:2018-07-05, length:914
+37196629.txt - breakout reviews num:1617
+begin:2015-12-02, end:2018-02-14, length:806
+37720226.txt - breakout reviews num:2862
+begin:2015-12-04, end:2018-07-03, length:943
+begin:2016-01-02, end:2018-07-15, length:926
+begin:2016-01-05, end:2017-09-17, length:622
+begin:2016-05-06, end:2018-07-03, length:789
+399354289.txt - breakout reviews num:7077
+begin:2016-01-08, end:2018-07-03, length:908
+begin:2016-01-09, end:2018-07-06, length:910
+begin:2016-01-21, end:2018-06-26, length:888
+400074284.txt - breakout reviews num:385
+begin:2016-01-14, end:2018-06-28, length:897
+400075212.txt - breakout reviews num:3565
+begin:2016-02-17, end:2018-06-29, length:864
+403012582.txt - breakout reviews num:3046
+begin:2016-03-07, end:2018-07-06, length:852
+404287926.txt - breakout reviews num:263
+begin:2016-02-28, end:2018-07-10, length:864
+begin:2016-03-13, end:2018-07-15, length:855
+begin:2016-03-18, end:2018-07-07, length:842
+405089420.txt - breakout reviews num:215
+begin:2016-03-23, end:2018-07-08, length:838
+begin:2016-03-03, end:2018-07-04, length:854
+405377071.txt - breakout reviews num:4757
+begin:2016-03-06, end:2018-07-03, length:850
+405564682.txt - breakout reviews num:953
+begin:2016-03-11, end:2018-07-06, length:848
+406316224.txt - breakout reviews num:367
+begin:2016-08-24, end:2018-06-09, length:655
+406347377.txt - breakout reviews num:5205
+begin:2016-03-16, end:2018-07-05, length:842
+begin:2016-03-16, end:2018-07-10, length:847
+406730542.txt - breakout reviews num:202
+begin:2016-03-30, end:2018-06-26, length:819
+407002091.txt - breakout reviews num:746
+begin:2016-03-25, end:2018-07-10, length:838
+begin:2016-03-17, end:2018-07-02, length:838
+begin:2016-03-21, end:2018-07-12, length:844
+407435011.txt - breakout reviews num:1440
+begin:2016-03-22, end:2018-07-11, length:842
+407485220.txt - breakout reviews num:1276
+begin:2016-03-24, end:2018-01-04, length:652
+407764125.txt - breakout reviews num:1206
+begin:2016-08-20, end:2018-06-29, length:679
+407840732.txt - breakout reviews num:2889
+begin:2016-04-07, end:2018-07-13, length:828
+408212737.txt - breakout reviews num:8898
+begin:2016-04-01, end:2018-07-14, length:835
+408332846.txt - breakout reviews num:5844
+begin:2016-04-17, end:2018-06-25, length:800
+409650928.txt - breakout reviews num:1513
+begin:2016-04-15, end:2018-07-05, length:812
+409872465.txt - breakout reviews num:1088
+begin:2016-04-18, end:2018-07-12, length:816
+begin:2016-06-20, end:2018-06-28, length:739
+409941242.txt - breakout reviews num:231
+begin:2016-04-27, end:2018-07-17, length:812
+409941465.txt - breakout reviews num:357
+begin:2016-04-17, end:2018-06-28, length:803
+begin:2016-04-25, end:2018-06-04, length:771
+410821967.txt - breakout reviews num:1811
+begin:2016-04-26, end:2018-07-07, length:803
+begin:2016-05-06, end:2018-07-16, length:802
+411907881.txt - breakout reviews num:439
+begin:2016-05-05, end:2018-07-04, length:791
+begin:2016-05-13, end:2018-07-12, length:791
+begin:2016-05-10, end:2018-07-07, length:789
+412187499.txt - breakout reviews num:1407
+begin:2016-06-29, end:2018-07-15, length:747
+begin:2017-01-07, end:2018-07-05, length:545
+begin:2016-05-16, end:2018-06-29, length:775
+begin:2016-05-20, end:2018-07-02, length:774
+begin:2016-05-21, end:2018-07-14, length:785
+begin:2016-05-24, end:2018-07-10, length:778
+413829873.txt - breakout reviews num:1505
+begin:2016-07-04, end:2018-07-14, length:741
+414002906.txt - breakout reviews num:235
+begin:2016-01-10, end:2018-07-08, length:911
+begin:2016-06-16, end:2018-07-05, length:750
+begin:2016-06-02, end:2018-07-01, length:760
+415792226.txt - breakout reviews num:702
+begin:2016-06-07, end:2018-07-01, length:755
+415793869.txt - breakout reviews num:7639
+begin:2016-10-02, end:2017-09-26, length:360
+416388721.txt - breakout reviews num:3696
+begin:2016-01-24, end:2018-07-01, length:890
+41641585.txt - breakout reviews num:725
+begin:2016-01-22, end:2018-06-25, length:886
+41643546.txt - breakout reviews num:356
+begin:2016-01-31, end:2018-07-11, length:893
+41651193.txt - breakout reviews num:377
+begin:2016-05-20, end:2018-07-08, length:780
+41651202.txt - breakout reviews num:1971
+begin:2016-02-08, end:2018-06-30, length:874
+begin:2016-02-21, end:2018-07-10, length:871
+begin:2016-06-17, end:2018-07-03, length:747
+begin:2018-03-01, end:2018-06-29, length:121
+417250911.txt - breakout reviews num:1174
+begin:2016-06-17, end:2018-07-04, length:748
+begin:2018-03-01, end:2018-07-11, length:133
+417833029.txt - breakout reviews num:7490
+begin:2016-06-24, end:2018-05-15, length:691
+418326286.txt - breakout reviews num:1474
+begin:2016-06-24, end:2018-07-11, length:748
+begin:2016-08-21, end:2018-07-10, length:689
+begin:2016-06-28, end:2018-07-04, length:737
+418990139.txt - breakout reviews num:2314
+begin:2016-07-02, end:2018-06-27, length:726
+419375658.txt - breakout reviews num:774
+begin:2016-07-07, end:2018-07-08, length:732
+begin:2016-07-04, end:2018-06-30, length:727
+begin:2016-07-05, end:2018-07-07, length:733
+begin:2016-08-25, end:2018-02-14, length:539
+420386019.txt - breakout reviews num:3650
+begin:2016-07-19, end:2018-07-17, length:729
+421091995.txt - breakout reviews num:1587
+begin:2016-07-17, end:2018-01-05, length:538
+begin:2016-07-13, end:2018-07-07, length:725
+begin:2016-07-17, end:2018-07-11, length:725
+421160838.txt - breakout reviews num:9380
+begin:2016-07-15, end:2017-10-28, length:471
+421160850.txt - breakout reviews num:4577
+begin:2016-07-26, end:2018-07-04, length:709
+421563715.txt - breakout reviews num:1062
+begin:2016-07-26, end:2018-07-12, length:717
+421563718.txt - breakout reviews num:833
+begin:2016-07-21, end:2018-07-12, length:722
+421808003.txt - breakout reviews num:2399
+begin:2017-02-28, end:2018-07-11, length:499
+421885447.txt - breakout reviews num:276
+begin:2016-07-26, end:2018-07-05, length:710
+begin:2016-07-25, end:2018-05-30, length:675
+422419047.txt - breakout reviews num:2892
+begin:2016-07-24, end:2018-07-04, length:711
+begin:2016-08-06, end:2018-06-26, length:690
+423104378.txt - breakout reviews num:649
+begin:2016-08-05, end:2018-06-27, length:692
+424262115.txt - breakout reviews num:541
+begin:2016-11-16, end:2018-07-06, length:598
+begin:2016-08-07, end:2018-07-01, length:694
+424264956.txt - breakout reviews num:3175
+begin:2016-08-15, end:2018-06-30, length:685
+begin:2016-08-20, end:2018-07-05, length:685
+425053743.txt - breakout reviews num:1083
+begin:2016-08-12, end:2018-07-11, length:699
+425100599.txt - breakout reviews num:493
+begin:2016-08-10, end:2018-07-09, length:699
+begin:2016-08-12, end:2018-02-14, length:552
+begin:2016-08-12, end:2018-02-14, length:552
+425298524.txt - breakout reviews num:3014
+begin:2016-08-16, end:2018-07-12, length:696
+begin:2016-08-15, end:2018-07-01, length:686
+begin:2016-08-16, end:2018-06-30, length:684
+425828896.txt - breakout reviews num:517
+begin:2016-08-17, end:2018-07-13, length:696
+begin:2017-03-16, end:2017-09-05, length:174
+426341197.txt - breakout reviews num:873
+begin:2016-08-18, end:2018-07-12, length:694
+426343036.txt - breakout reviews num:1003
+begin:2016-08-23, end:2018-07-05, length:682
+426852503.txt - breakout reviews num:3800
+begin:2016-08-23, end:2018-07-12, length:689
+426881480.txt - breakout reviews num:3355
+begin:2016-08-23, end:2018-07-04, length:681
+426881487.txt - breakout reviews num:4168
+begin:2016-08-23, end:2018-07-17, length:694
+begin:2016-08-25, end:2018-07-13, length:688
+427016671.txt - breakout reviews num:1897
+begin:2016-11-02, end:2018-07-10, length:616
+427017134.txt - breakout reviews num:3261
+begin:2016-09-16, end:2018-07-11, length:664
+begin:2016-10-21, end:2018-07-04, length:622
+427542186.txt - breakout reviews num:323
+begin:2016-12-02, end:2018-06-25, length:571
+427542369.txt - breakout reviews num:329
+begin:2016-12-16, end:2018-06-26, length:558
+begin:2016-08-30, end:2018-05-25, length:634
+begin:2016-09-01, end:2018-07-05, length:673
+begin:2016-08-31, end:2018-07-05, length:674
+begin:2016-09-01, end:2018-07-09, length:677
+begin:2016-09-14, end:2018-07-04, length:659
+429459947.txt - breakout reviews num:7490
+begin:2016-09-20, end:2018-07-09, length:658
+begin:2016-09-10, end:2017-09-27, length:383
+429482112.txt - breakout reviews num:14805
+begin:2016-09-12, end:2018-07-07, length:664
+begin:2016-09-18, end:2018-07-05, length:656
+430208791.txt - breakout reviews num:9195
+begin:2016-09-20, end:2018-07-05, length:654
+430793721.txt - breakout reviews num:1892
+begin:2016-09-19, end:2018-07-16, length:666
+431080419.txt - breakout reviews num:213
+begin:2016-09-20, end:2018-07-15, length:664
+begin:2016-09-21, end:2018-07-09, length:657
+431357269.txt - breakout reviews num:880
+begin:2017-12-27, end:2018-07-02, length:188
+begin:2016-09-22, end:2018-06-14, length:631
+begin:2016-09-22, end:2018-06-26, length:643
+431610330.txt - breakout reviews num:1167
+begin:2018-03-10, end:2018-06-27, length:110
+432506345.txt - breakout reviews num:243
+begin:2016-10-06, end:2018-07-05, length:638
+432506809.txt - breakout reviews num:1027
+begin:2016-09-29, end:2018-07-08, length:648
+432509882.txt - breakout reviews num:1831
+begin:2016-09-30, end:2018-06-30, length:639
+432698301.txt - breakout reviews num:643
+begin:2016-10-01, end:2018-07-07, length:645
+432698786.txt - breakout reviews num:520
+begin:2016-10-04, end:2018-07-16, length:651
+432780721.txt - breakout reviews num:4931
+begin:2016-09-29, end:2018-07-07, length:647
+432792190.txt - breakout reviews num:906
+begin:2016-10-03, end:2018-07-05, length:641
+begin:2016-10-06, end:2018-07-09, length:642
+433018366.txt - breakout reviews num:220
+begin:2016-10-09, end:2018-06-25, length:625
+433681976.txt - breakout reviews num:366
+begin:2016-10-07, end:2018-07-02, length:634
+begin:2016-10-10, end:2018-07-16, length:645
+begin:2016-10-11, end:2018-06-24, length:622
+434550872.txt - breakout reviews num:2967
+begin:2016-10-14, end:2018-07-13, length:638
+begin:2016-10-16, end:2018-07-06, length:629
+435289230.txt - breakout reviews num:237
+begin:2017-12-08, end:2018-06-25, length:200
+begin:2016-10-21, end:2017-08-20, length:304
+436487134.txt - breakout reviews num:1083
+begin:2018-04-23, end:2018-06-28, length:67
+436514312.txt - breakout reviews num:1300
+begin:2016-10-24, end:2018-06-29, length:614
+436668736.txt - breakout reviews num:746
+begin:2016-10-25, end:2018-07-07, length:621
+436668981.txt - breakout reviews num:822
+begin:2016-10-26, end:2018-07-04, length:617
+437250630.txt - breakout reviews num:1937
+begin:2016-10-26, end:2018-07-12, length:625
+437311407.txt - breakout reviews num:686
+begin:2016-10-27, end:2018-07-02, length:614
+begin:2016-10-31, end:2018-07-16, length:624
+437608773.txt - breakout reviews num:802
+begin:2016-10-28, end:2018-06-28, length:609
+437753234.txt - breakout reviews num:272
+begin:2016-10-28, end:2018-06-30, length:611
+437827934.txt - breakout reviews num:264
+begin:2016-10-31, end:2018-07-05, length:613
+437859601.txt - breakout reviews num:930
+begin:2016-11-04, end:2018-07-07, length:611
+438803482.txt - breakout reviews num:4860
+begin:2016-11-04, end:2018-07-12, length:616
+begin:2016-11-09, end:2018-07-08, length:607
+439037024.txt - breakout reviews num:1278
+begin:2016-11-06, end:2018-07-05, length:607
+begin:2017-10-23, end:2018-06-30, length:251
+440208643.txt - breakout reviews num:4716
+begin:2017-02-04, end:2018-07-03, length:515
+440241201.txt - breakout reviews num:2405
+begin:2016-12-02, end:2018-06-30, length:576
+440403590.txt - breakout reviews num:1864
+begin:2016-11-14, end:2018-07-06, length:600
+begin:2016-12-01, end:2018-07-04, length:581
+440403791.txt - breakout reviews num:671
+begin:2016-11-16, end:2018-06-29, length:591
+440464173.txt - breakout reviews num:1367
+begin:2017-02-20, end:2018-07-06, length:502
+441120471.txt - breakout reviews num:2713
+begin:2016-11-17, end:2018-04-22, length:522
+begin:2016-11-26, end:2018-06-29, length:581
+begin:2018-06-04, end:2018-07-02, length:29
+441491828.txt - breakout reviews num:9516
+begin:2016-11-21, end:2018-07-14, length:601
+441491860.txt - breakout reviews num:242
+begin:2016-11-23, end:2018-07-10, length:595
+442314990.txt - breakout reviews num:1279
+begin:2017-02-13, end:2018-07-10, length:513
+begin:2016-11-23, end:2018-07-10, length:595
+begin:2016-11-25, end:2018-07-14, length:597
+442869196.txt - breakout reviews num:424
+begin:2016-11-25, end:2018-07-09, length:592
+442869386.txt - breakout reviews num:7858
+begin:2016-11-29, end:2018-07-04, length:583
+443056294.txt - breakout reviews num:479
+begin:2016-11-27, end:2018-06-21, length:572
+begin:2016-11-30, end:2018-07-01, length:579
+443967407.txt - breakout reviews num:2254
+begin:2016-12-02, end:2018-07-10, length:586
+444267629.txt - breakout reviews num:1783
+begin:2016-12-04, end:2018-06-29, length:573
+444267928.txt - breakout reviews num:1344
+begin:2016-12-04, end:2018-07-13, length:587
+444356814.txt - breakout reviews num:501
+begin:2016-12-04, end:2018-07-16, length:590
+begin:2016-12-04, end:2018-06-23, length:567
+444803439.txt - breakout reviews num:545
+begin:2016-12-09, end:2018-07-12, length:581
+445666472.txt - breakout reviews num:9683
+begin:2017-01-09, end:2018-07-13, length:551
+445666851.txt - breakout reviews num:502
+begin:2016-12-12, end:2018-06-20, length:556
+begin:2016-12-13, end:2018-06-26, length:561
+begin:2016-12-11, end:2018-07-08, length:575
+446177131.txt - breakout reviews num:210
+begin:2017-01-23, end:2018-07-12, length:536
+begin:2016-12-13, end:2018-07-05, length:570
+begin:2016-12-15, end:2018-07-08, length:571
+begin:2016-12-15, end:2018-06-27, length:560
+begin:2016-12-19, end:2018-07-01, length:560
+begin:2016-12-19, end:2018-07-11, length:570
+begin:2016-12-21, end:2018-07-03, length:560
+447925063.txt - breakout reviews num:1389
+begin:2016-12-21, end:2018-07-03, length:560
+447926071.txt - breakout reviews num:4308
+begin:2016-12-21, end:2018-07-11, length:568
+begin:2016-12-31, end:2018-07-08, length:555
+begin:2016-12-22, end:2018-07-04, length:560
+begin:2016-12-21, end:2018-07-09, length:566
+448339199.txt - breakout reviews num:1170
+begin:2016-12-21, end:2018-07-09, length:566
+begin:2016-12-23, end:2018-07-12, length:567
+448722028.txt - breakout reviews num:2213
+begin:2016-12-23, end:2018-07-10, length:565
+begin:2016-12-23, end:2018-07-03, length:558
+begin:2016-12-24, end:2017-09-17, length:268
+448941423.txt - breakout reviews num:1386
+begin:2017-01-22, end:2018-07-09, length:534
+449577802.txt - breakout reviews num:5625
+begin:2016-12-27, end:2018-06-26, length:547
+449578415.txt - breakout reviews num:1314
+begin:2016-12-31, end:2018-06-26, length:543
+begin:2016-12-28, end:2018-07-08, length:558
+begin:2016-12-30, end:2018-07-07, length:555
+begin:2016-12-29, end:2018-07-10, length:559
+begin:2016-12-30, end:2018-07-13, length:561
+450041032.txt - breakout reviews num:365
+begin:2017-01-21, end:2018-07-11, length:537
+450041137.txt - breakout reviews num:496
+begin:2016-12-31, end:2018-07-16, length:563
+begin:2017-01-03, end:2018-06-26, length:540
+begin:2017-01-05, end:2018-07-03, length:545
+begin:2017-01-05, end:2018-07-10, length:552
+begin:2017-01-05, end:2018-07-06, length:548
+451473846.txt - breakout reviews num:1480
+begin:2017-01-09, end:2018-07-07, length:545
+begin:2017-01-05, end:2018-05-03, length:484
+451521699.txt - breakout reviews num:10855
+begin:2017-01-06, end:2018-06-26, length:537
+begin:2018-03-23, end:2018-06-28, length:98
+451703096.txt - breakout reviews num:559
+begin:2017-01-12, end:2018-07-14, length:549
+451981574.txt - breakout reviews num:1752
+begin:2017-01-07, end:2018-07-04, length:544
+451991164.txt - breakout reviews num:2828
+begin:2017-01-11, end:2017-09-26, length:259
+begin:2017-01-12, end:2018-07-03, length:538
+begin:2017-01-13, end:2018-07-15, length:549
+begin:2017-01-12, end:2018-07-15, length:550
+453176145.txt - breakout reviews num:9745
+begin:2017-01-13, end:2018-07-06, length:540
+begin:2017-01-13, end:2018-07-06, length:540
+begin:2017-01-15, end:2018-05-04, length:475
+453872166.txt - breakout reviews num:1114
+begin:2017-01-17, end:2018-06-27, length:527
+454213942.txt - breakout reviews num:401
+begin:2017-01-17, end:2018-07-09, length:539
+454216034.txt - breakout reviews num:10288
+begin:2017-01-19, end:2018-07-06, length:534
+begin:2017-01-20, end:2018-07-07, length:534
+begin:2017-02-02, end:2018-07-11, length:525
+454698352.txt - breakout reviews num:5429
+begin:2017-01-20, end:2018-07-03, length:530
+begin:2017-01-20, end:2018-07-03, length:530
+begin:2017-06-23, end:2018-07-07, length:380
+begin:2017-01-20, end:2018-04-26, length:462
+begin:2017-01-22, end:2018-07-13, length:538
+begin:2017-01-30, end:2018-07-07, length:524
+begin:2017-01-22, end:2018-06-27, length:522
+begin:2017-01-22, end:2018-07-13, length:538
+455409017.txt - breakout reviews num:564
+begin:2017-01-22, end:2018-07-14, length:539
+455420533.txt - breakout reviews num:2335
+begin:2017-01-27, end:2018-06-28, length:518
+456175086.txt - breakout reviews num:4510
+begin:2017-04-07, end:2018-06-25, length:445
+456175581.txt - breakout reviews num:1498
+begin:2017-01-28, end:2018-06-06, length:495
+begin:2017-01-28, end:2018-06-29, length:518
+begin:2017-02-01, end:2017-10-09, length:251
+begin:2017-02-06, end:2018-06-30, length:510
+begin:2017-02-06, end:2018-07-03, length:513
+begin:2017-02-07, end:2018-07-01, length:510
+458563540.txt - breakout reviews num:2152
+begin:2017-02-12, end:2018-07-16, length:520
+begin:2017-02-16, end:2018-06-30, length:500
+459275100.txt - breakout reviews num:2544
+begin:2017-02-19, end:2017-12-01, length:286
+459632375.txt - breakout reviews num:1095
+begin:2017-03-11, end:2018-06-27, length:474
+begin:2017-02-13, end:2017-09-06, length:206
+459818571.txt - breakout reviews num:275
+begin:2017-02-14, end:2018-01-16, length:337
+459906310.txt - breakout reviews num:1193
+begin:2017-02-15, end:2018-07-12, length:513
+begin:2017-02-15, end:2018-07-07, length:508
+459925763.txt - breakout reviews num:360
+begin:2017-02-14, end:2018-07-16, length:518
+begin:2017-02-16, end:2018-07-01, length:501
+460043372.txt - breakout reviews num:4029
+begin:2017-03-16, end:2018-07-10, length:482
+460043748.txt - breakout reviews num:4955
+begin:2017-02-15, end:2018-07-02, length:503
+begin:2017-02-15, end:2018-06-23, length:494
+460099265.txt - breakout reviews num:215
+begin:2017-02-28, end:2018-06-30, length:488
+460298171.txt - breakout reviews num:260
+begin:2017-02-16, end:2018-07-14, length:514
+460298181.txt - breakout reviews num:1071
+begin:2017-02-21, end:2018-07-10, length:505
+begin:2017-02-18, end:2018-07-02, length:500
+460476152.txt - breakout reviews num:975
+begin:2017-02-20, end:2018-06-27, length:493
+begin:2017-02-18, end:2018-06-28, length:496
+begin:2017-02-18, end:2018-02-14, length:362
+460591380.txt - breakout reviews num:669
+begin:2017-02-19, end:2018-07-05, length:502
+begin:2017-02-18, end:2018-07-11, length:509
+460755818.txt - breakout reviews num:497
+begin:2017-02-19, end:2018-07-15, length:512
+460793376.txt - breakout reviews num:649
+begin:2018-06-08, end:2018-07-06, length:29
+461347998.txt - breakout reviews num:9621
+begin:2017-02-23, end:2018-07-09, length:502
+461518855.txt - breakout reviews num:4424
+begin:2017-03-03, end:2018-07-08, length:493
+begin:2017-02-22, end:2018-07-17, length:511
+begin:2017-02-28, end:2018-07-08, length:496
+461811935.txt - breakout reviews num:1179
+begin:2017-02-27, end:2018-07-09, length:498
+begin:2017-03-01, end:2017-12-04, length:279
+begin:2017-02-28, end:2018-01-17, length:324
+begin:2017-02-27, end:2018-07-12, length:501
+462565213.txt - breakout reviews num:2211
+begin:2017-02-28, end:2018-06-29, length:487
+462769331.txt - breakout reviews num:523
+begin:2017-03-02, end:2018-07-16, length:502
+463001031.txt - breakout reviews num:262
+begin:2017-03-02, end:2018-07-04, length:490
+begin:2017-03-02, end:2018-07-14, length:500
+begin:2017-03-02, end:2018-06-23, length:479
+begin:2017-03-03, end:2018-07-08, length:493
+463197312.txt - breakout reviews num:206
+begin:2017-03-03, end:2018-06-30, length:485
+463236805.txt - breakout reviews num:2894
+begin:2017-03-03, end:2018-07-12, length:497
+begin:2017-03-05, end:2018-06-26, length:479
+begin:2017-12-06, end:2018-03-16, length:101
+begin:2017-03-08, end:2018-05-16, length:435
+begin:2017-03-08, end:2018-07-05, length:485
+begin:2017-03-13, end:2018-07-03, length:478
+464275507.txt - breakout reviews num:1051
+begin:2017-03-11, end:2018-07-07, length:484
+464373912.txt - breakout reviews num:1420
+begin:2017-03-21, end:2018-05-31, length:437
+begin:2017-03-09, end:2018-07-11, length:490
+begin:2017-03-13, end:2017-11-30, length:263
+464674409.txt - breakout reviews num:682
+begin:2017-03-13, end:2018-07-07, length:482
+begin:2017-03-12, end:2018-06-27, length:473
+begin:2017-03-14, end:2018-07-17, length:491
+begin:2017-03-16, end:2018-07-07, length:479
+begin:2017-03-31, end:2018-07-09, length:466
+begin:2017-03-15, end:2018-07-08, length:481
+begin:2017-03-17, end:2018-07-12, length:483
+begin:2017-04-23, end:2018-07-03, length:437
+begin:2017-03-17, end:2018-07-04, length:475
+466342924.txt - breakout reviews num:1095
+begin:2017-03-20, end:2018-06-30, length:468
+begin:2017-03-18, end:2018-07-02, length:472
+begin:2017-03-20, end:2018-07-16, length:484
+466794339.txt - breakout reviews num:1332
+begin:2017-03-20, end:2018-07-01, length:469
+466795225.txt - breakout reviews num:2120
+begin:2017-03-22, end:2018-07-12, length:478
+begin:2017-03-21, end:2018-07-06, length:473
+467014808.txt - breakout reviews num:538
+begin:2017-03-20, end:2018-06-22, length:460
+begin:2017-03-22, end:2018-07-07, length:473
+begin:2017-03-24, end:2018-07-13, length:477
+begin:2017-03-22, end:2018-06-28, length:464
+begin:2017-03-30, end:2018-07-14, length:472
+468877074.txt - breakout reviews num:806
+begin:2017-03-30, end:2018-01-07, length:284
+468877132.txt - breakout reviews num:929
+begin:2017-04-04, end:2018-06-26, length:449
+469199122.txt - breakout reviews num:551
+begin:2017-04-01, end:2018-06-08, length:434
+begin:2017-04-09, end:2018-02-26, length:324
+begin:2017-04-06, end:2018-04-21, length:381
+begin:2017-04-05, end:2018-07-02, length:454
+469998923.txt - breakout reviews num:210
+begin:2017-04-07, end:2017-11-09, length:217
+begin:2017-04-06, end:2018-07-12, length:463
+begin:2017-04-07, end:2018-06-26, length:446
+begin:2017-04-08, end:2018-07-07, length:456
+470687490.txt - breakout reviews num:3637
+begin:2017-04-08, end:2018-07-03, length:452
+470775529.txt - breakout reviews num:841
+begin:2017-04-10, end:2018-07-07, length:454
+471346555.txt - breakout reviews num:842
+begin:2018-03-30, end:2018-07-13, length:106
+471403427.txt - breakout reviews num:632
+begin:2017-04-12, end:2018-07-05, length:450
+begin:2017-04-14, end:2018-06-27, length:440
+begin:2017-04-14, end:2018-07-03, length:446
+begin:2017-04-12, end:2018-07-04, length:449
+begin:2017-06-01, end:2018-06-26, length:391
+begin:2017-04-14, end:2018-06-22, length:435
+471969770.txt - breakout reviews num:502
+begin:2017-04-14, end:2018-07-10, length:453
+472045057.txt - breakout reviews num:213
+begin:2017-04-14, end:2018-06-26, length:439
+begin:2017-04-19, end:2018-07-04, length:442
+begin:2017-12-08, end:2018-07-09, length:214
+472137749.txt - breakout reviews num:3112
+begin:2017-04-19, end:2018-07-06, length:444
+begin:2017-04-15, end:2018-07-17, length:459
+begin:2017-04-16, end:2018-07-04, length:445
+472646451.txt - breakout reviews num:452
+begin:2017-04-16, end:2018-05-31, length:411
+472668384.txt - breakout reviews num:1001
+begin:2017-04-17, end:2018-07-17, length:457
+472803943.txt - breakout reviews num:2348
+begin:2017-04-21, end:2018-07-06, length:442
+472821057.txt - breakout reviews num:205
+begin:2017-04-18, end:2018-06-21, length:430
+begin:2017-04-18, end:2018-07-12, length:451
+begin:2017-04-18, end:2018-06-26, length:435
+472948188.txt - breakout reviews num:300
+begin:2017-04-22, end:2018-07-06, length:441
+begin:2017-04-19, end:2018-07-04, length:442
+473403775.txt - breakout reviews num:538
+begin:2017-04-20, end:2018-07-11, length:448
+473602861.txt - breakout reviews num:4116
+begin:2017-04-21, end:2017-10-31, length:194
+473602974.txt - breakout reviews num:410
+begin:2017-04-21, end:2018-07-15, length:451
+473740555.txt - breakout reviews num:9835
+begin:2017-04-23, end:2018-06-08, length:412
+473742112.txt - breakout reviews num:9073
+begin:2017-04-20, end:2018-07-14, length:451
+begin:2017-04-20, end:2018-07-02, length:439
+begin:2017-04-20, end:2018-06-29, length:436
+begin:2017-04-24, end:2018-07-12, length:445
+begin:2017-04-24, end:2018-07-12, length:445
+begin:2017-04-21, end:2018-07-04, length:440
+begin:2017-04-22, end:2018-06-30, length:435
+474154756.txt - breakout reviews num:974
+begin:2017-04-24, end:2018-06-20, length:423
+begin:2017-04-24, end:2018-07-09, length:442
+begin:2017-04-24, end:2018-07-11, length:444
+begin:2017-04-25, end:2018-06-30, length:432
+begin:2017-04-24, end:2018-06-30, length:433
+474581010.txt - breakout reviews num:2123
+begin:2018-01-22, end:2018-07-05, length:165
+474932899.txt - breakout reviews num:701
+begin:2017-04-27, end:2017-12-05, length:223
+begin:2017-04-29, end:2018-07-04, length:432
+475072295.txt - breakout reviews num:7576
+begin:2017-04-28, end:2018-07-06, length:435
+475073085.txt - breakout reviews num:1990
+begin:2017-05-02, end:2018-07-09, length:434
+475073155.txt - breakout reviews num:9047
+begin:2017-04-27, end:2018-07-05, length:435
+begin:2017-04-28, end:2018-06-24, length:423
+475221023.txt - breakout reviews num:530
+begin:2017-05-05, end:2018-06-30, length:422
+begin:2017-05-05, end:2018-06-29, length:421
+begin:2017-05-05, end:2018-06-28, length:420
+475264029.txt - breakout reviews num:464
+begin:2017-05-19, end:2018-06-30, length:408
+begin:2017-06-19, end:2018-07-02, length:379
+begin:2017-04-29, end:2018-07-09, length:437
+begin:2017-05-03, end:2018-06-28, length:422
+begin:2017-05-03, end:2018-07-07, length:431
+475279382.txt - breakout reviews num:10947
+begin:2017-05-02, end:2018-07-01, length:426
+begin:2017-05-03, end:2018-06-27, length:421
+begin:2017-04-29, end:2018-07-14, length:442
+475530855.txt - breakout reviews num:3397
+begin:2017-04-30, end:2018-07-03, length:430
+475584898.txt - breakout reviews num:238
+begin:2017-05-03, end:2018-06-28, length:422
+476081881.txt - breakout reviews num:365
+begin:2017-05-03, end:2018-07-04, length:428
+476081901.txt - breakout reviews num:217
+begin:2017-05-04, end:2018-06-24, length:417
+begin:2017-05-07, end:2018-07-12, length:432
+476323161.txt - breakout reviews num:711
+begin:2017-05-04, end:2018-05-15, length:377
+begin:2017-05-05, end:2018-07-04, length:426
+476324155.txt - breakout reviews num:280
+begin:2017-05-05, end:2018-07-04, length:426
+476598254.txt - breakout reviews num:3331
+begin:2017-05-06, end:2018-06-28, length:419
+476631235.txt - breakout reviews num:237
+begin:2017-05-10, end:2018-07-12, length:429
+476987525.txt - breakout reviews num:9582
+begin:2017-05-09, end:2018-07-04, length:422
+begin:2017-05-08, end:2018-07-10, length:429
+477250101.txt - breakout reviews num:867
+begin:2017-05-08, end:2018-07-16, length:435
+477250363.txt - breakout reviews num:900
+begin:2017-05-09, end:2018-07-02, length:420
+477251425.txt - breakout reviews num:1318
+begin:2017-05-10, end:2018-06-27, length:414
+477331372.txt - breakout reviews num:448
+begin:2017-05-10, end:2018-07-10, length:427
+477332575.txt - breakout reviews num:209
+begin:2017-05-10, end:2018-05-26, length:382
+begin:2017-05-10, end:2018-07-04, length:421
+begin:2017-05-10, end:2018-06-04, length:391
+begin:2017-05-13, end:2018-05-27, length:380
+begin:2017-05-10, end:2018-07-12, length:429
+477803343.txt - breakout reviews num:962
+begin:2017-05-12, end:2018-07-10, length:425
+477907518.txt - breakout reviews num:314
+begin:2017-05-11, end:2018-07-13, length:429
+begin:2017-05-11, end:2018-07-09, length:425
+477933418.txt - breakout reviews num:644
+begin:2017-05-15, end:2018-07-09, length:421
+begin:2017-05-11, end:2018-02-14, length:280
+begin:2017-05-13, end:2018-02-14, length:278
+477936766.txt - breakout reviews num:1656
+begin:2017-05-12, end:2018-07-09, length:424
+begin:2017-05-19, end:2018-07-05, length:413
+begin:2017-05-11, end:2018-07-12, length:428
+478043795.txt - breakout reviews num:255
+begin:2017-05-15, end:2018-07-07, length:419
+478049177.txt - breakout reviews num:401
+begin:2017-05-19, end:2018-06-27, length:405
+478049307.txt - breakout reviews num:331
+begin:2017-05-23, end:2017-10-19, length:150
+478156845.txt - breakout reviews num:551
+begin:2017-05-22, end:2018-07-10, length:415
+478269695.txt - breakout reviews num:492
+begin:2017-05-16, end:2018-06-04, length:385
+478490652.txt - breakout reviews num:3569
+begin:2017-05-14, end:2018-07-05, length:418
+begin:2017-05-16, end:2018-07-09, length:420
+478731151.txt - breakout reviews num:1285
+begin:2017-07-14, end:2018-04-28, length:289
+begin:2017-05-18, end:2018-07-02, length:411
+begin:2017-08-15, end:2018-07-03, length:323
+begin:2017-05-19, end:2018-07-14, length:422
+479219347.txt - breakout reviews num:8741
+begin:2017-05-18, end:2018-07-11, length:420
+begin:2017-05-19, end:2018-07-17, length:425
+begin:2017-07-10, end:2018-07-05, length:361
+479223232.txt - breakout reviews num:4369
+begin:2017-05-19, end:2018-06-27, length:405
+479223621.txt - breakout reviews num:2313
+begin:2017-05-22, end:2018-07-03, length:408
+479398150.txt - breakout reviews num:384
+begin:2017-05-26, end:2018-07-12, length:413
+479422898.txt - breakout reviews num:3016
+begin:2017-08-19, end:2018-07-03, length:319
+479598964.txt - breakout reviews num:8014
+begin:2017-05-20, end:2017-12-17, length:212
+begin:2017-05-21, end:2018-06-20, length:396
+begin:2017-05-21, end:2018-07-12, length:418
+479864211.txt - breakout reviews num:438
+begin:2017-05-25, end:2018-07-09, length:411
+begin:2017-05-23, end:2018-07-10, length:414
+479979029.txt - breakout reviews num:1097
+begin:2017-05-24, end:2018-07-09, length:412
+begin:2017-05-25, end:2018-07-17, length:419
+begin:2017-05-24, end:2018-06-28, length:401
+begin:2017-05-26, end:2018-05-20, length:360
+480426323.txt - breakout reviews num:749
+begin:2017-05-25, end:2018-06-27, length:399
+begin:2017-05-25, end:2018-07-15, length:417
+begin:2017-05-29, end:2018-07-08, length:406
+480516889.txt - breakout reviews num:2597
+begin:2017-05-27, end:2018-07-01, length:401
+480517594.txt - breakout reviews num:855
+begin:2017-05-26, end:2018-07-13, length:414
+480524523.txt - breakout reviews num:880
+begin:2017-05-30, end:2018-07-14, length:411
+480579393.txt - breakout reviews num:8956
+begin:2018-05-23, end:2018-07-06, length:45
+480580003.txt - breakout reviews num:8811
+begin:2017-06-02, end:2018-07-11, length:405
+480648759.txt - breakout reviews num:645
+begin:2017-05-31, end:2018-07-15, length:411
+480768069.txt - breakout reviews num:856
+begin:2017-05-31, end:2018-05-15, length:350
+480769050.txt - breakout reviews num:1456
+begin:2017-05-31, end:2018-07-11, length:407
+480769052.txt - breakout reviews num:2438
+begin:2017-05-31, end:2018-06-30, length:396
+begin:2017-05-29, end:2018-07-12, length:410
+481049954.txt - breakout reviews num:3155
+begin:2017-06-01, end:2018-07-12, length:407
+481535277.txt - breakout reviews num:3509
+begin:2017-06-02, end:2018-03-15, length:287
+481537474.txt - breakout reviews num:749
+begin:2017-06-03, end:2018-07-07, length:400
+481853040.txt - breakout reviews num:949
+begin:2017-06-03, end:2018-07-13, length:406
+begin:2017-06-06, end:2018-06-27, length:387
+481853968.txt - breakout reviews num:4328
+begin:2017-06-03, end:2018-07-13, length:406
+481941925.txt - breakout reviews num:766
+begin:2017-06-05, end:2018-01-10, length:220
+begin:2017-06-04, end:2018-07-05, length:397
+begin:2017-06-06, end:2018-07-13, length:403
+482386133.txt - breakout reviews num:9407
+begin:2017-06-06, end:2018-07-16, length:406
+482386220.txt - breakout reviews num:2216
+begin:2017-06-05, end:2018-07-09, length:400
+482395086.txt - breakout reviews num:255
+begin:2017-06-08, end:2018-04-19, length:316
+begin:2017-06-07, end:2018-07-06, length:395
+482636090.txt - breakout reviews num:5145
+begin:2017-06-07, end:2018-06-30, length:389
+482659529.txt - breakout reviews num:201
+begin:2017-06-07, end:2018-06-26, length:385
+begin:2017-06-08, end:2018-07-14, length:402
+begin:2017-06-09, end:2018-07-14, length:401
+482999247.txt - breakout reviews num:465
+begin:2017-06-10, end:2018-06-30, length:386
+482999668.txt - breakout reviews num:2599
+begin:2017-06-10, end:2018-06-30, length:386
+482999736.txt - breakout reviews num:1732
+begin:2017-06-09, end:2018-07-09, length:396
+begin:2017-06-09, end:2018-06-30, length:387
+begin:2017-06-10, end:2018-06-27, length:383
+begin:2017-06-09, end:2017-09-19, length:103
+483157276.txt - breakout reviews num:1294
+begin:2017-06-11, end:2018-07-17, length:402
+begin:2017-06-12, end:2018-07-01, length:385
+483690049.txt - breakout reviews num:494
+begin:2017-06-12, end:2018-07-04, length:388
+begin:2017-06-13, end:2017-09-19, length:99
+483928739.txt - breakout reviews num:1903
+begin:2017-06-13, end:2018-06-27, length:380
+begin:2017-06-14, end:2018-07-07, length:389
+484056101.txt - breakout reviews num:989
+begin:2017-06-13, end:2018-07-16, length:399
+484056480.txt - breakout reviews num:2900
+begin:2017-06-16, end:2018-06-28, length:378
+484057003.txt - breakout reviews num:8988
+begin:2017-06-18, end:2018-04-11, length:298
+484058973.txt - breakout reviews num:5342
+begin:2017-06-14, end:2018-07-05, length:387
+484249593.txt - breakout reviews num:422
+begin:2017-06-14, end:2017-10-19, length:128
+484308416.txt - breakout reviews num:1017
+begin:2017-06-15, end:2018-06-18, length:369
+484311548.txt - breakout reviews num:257
+begin:2017-06-15, end:2018-07-05, length:386
+begin:2017-06-15, end:2018-07-06, length:387
+484365106.txt - breakout reviews num:504
+begin:2017-06-16, end:2018-07-14, length:394
+484365611.txt - breakout reviews num:3976
+begin:2017-06-16, end:2018-06-07, length:357
+begin:2017-06-16, end:2018-06-27, length:377
+begin:2017-06-16, end:2018-07-05, length:385
+484633607.txt - breakout reviews num:3511
+begin:2017-06-16, end:2018-07-05, length:385
+begin:2017-06-16, end:2018-03-02, length:260
+begin:2017-06-16, end:2018-04-23, length:312
+begin:2017-06-19, end:2018-07-13, length:390
+484730282.txt - breakout reviews num:322
+begin:2017-06-19, end:2018-06-27, length:374
+begin:2017-06-19, end:2018-07-13, length:390
+484730895.txt - breakout reviews num:3570
+begin:2017-07-03, end:2018-06-08, length:341
+begin:2017-06-23, end:2018-07-06, length:379
+485068831.txt - breakout reviews num:3616
+begin:2017-06-19, end:2018-07-10, length:387
+begin:2017-06-19, end:2018-07-14, length:391
+begin:2017-06-20, end:2018-07-04, length:380
+begin:2017-06-20, end:2018-07-07, length:383
+begin:2017-06-22, end:2018-06-25, length:369
+485541481.txt - breakout reviews num:227
+begin:2017-06-26, end:2018-06-21, length:361
+begin:2017-06-21, end:2018-06-27, length:372
+begin:2017-06-22, end:2018-07-03, length:377
+begin:2017-06-22, end:2018-06-25, length:369
+485960255.txt - breakout reviews num:13097
+begin:2017-06-22, end:2018-06-25, length:369
+begin:2017-06-22, end:2018-07-05, length:379
+begin:2017-06-22, end:2018-03-08, length:260
+begin:2017-06-23, end:2018-06-28, length:371
+485964538.txt - breakout reviews num:1481
+begin:2017-06-23, end:2018-07-06, length:379
+485992658.txt - breakout reviews num:864
+begin:2017-06-23, end:2018-06-27, length:370
+begin:2017-06-23, end:2018-06-29, length:372
+begin:2017-06-24, end:2018-07-15, length:387
+begin:2017-06-24, end:2018-06-26, length:368
+486188224.txt - breakout reviews num:1947
+begin:2017-06-26, end:2018-07-07, length:377
+486188481.txt - breakout reviews num:1689
+begin:2017-06-24, end:2018-07-12, length:384
+486194135.txt - breakout reviews num:478
+begin:2017-06-26, end:2018-07-09, length:379
+486208024.txt - breakout reviews num:752
+begin:2017-06-24, end:2018-06-26, length:368
+486292770.txt - breakout reviews num:3352
+begin:2017-06-30, end:2018-06-30, length:366
+486323960.txt - breakout reviews num:7227
+begin:2017-06-24, end:2018-06-25, length:367
+begin:2017-06-25, end:2018-06-11, length:352
+begin:2017-06-28, end:2018-07-08, length:376
+486537786.txt - breakout reviews num:1832
+begin:2017-06-26, end:2018-07-10, length:380
+486754157.txt - breakout reviews num:3620
+begin:2017-06-28, end:2018-06-25, length:363
+begin:2017-06-27, end:2018-07-02, length:371
+begin:2017-06-29, end:2018-07-10, length:377
+begin:2017-06-28, end:2018-07-08, length:376
+486999661.txt - breakout reviews num:2946
+begin:2017-06-27, end:2018-07-10, length:379
+487003518.txt - breakout reviews num:4294
+begin:2017-06-27, end:2018-07-01, length:370
+begin:2017-06-28, end:2018-06-30, length:368
+begin:2017-12-08, end:2018-07-06, length:211
+487190639.txt - breakout reviews num:589
+begin:2017-06-30, end:2018-07-04, length:370
+487190794.txt - breakout reviews num:2245
+begin:2017-06-28, end:2018-07-11, length:379
+487206688.txt - breakout reviews num:4401
+begin:2017-06-30, end:2018-06-12, length:348
+487375523.txt - breakout reviews num:887
+begin:2017-07-04, end:2018-03-12, length:252
+487375582.txt - breakout reviews num:419
+begin:2017-06-30, end:2018-07-13, length:379
+487379098.txt - breakout reviews num:5897
+begin:2017-06-30, end:2018-06-18, length:354
+487379313.txt - breakout reviews num:367
+begin:2017-06-30, end:2018-07-02, length:368
+487379704.txt - breakout reviews num:1478
+begin:2017-07-03, end:2018-07-09, length:372
+begin:2017-07-03, end:2018-07-15, length:378
+begin:2017-06-30, end:2018-06-27, length:363
+487454048.txt - breakout reviews num:793
+begin:2017-06-30, end:2018-06-24, length:360
+begin:2017-06-30, end:2018-07-07, length:373
+487454738.txt - breakout reviews num:1718
+begin:2017-06-30, end:2018-06-28, length:364
+487454739.txt - breakout reviews num:978
+begin:2017-08-15, end:2018-07-01, length:321
+487463583.txt - breakout reviews num:289
+begin:2017-06-30, end:2018-07-09, length:375
+487500267.txt - breakout reviews num:2118
+begin:2017-06-30, end:2018-07-11, length:377
+begin:2017-06-30, end:2018-06-19, length:355
+begin:2017-06-30, end:2018-07-02, length:368
+487527890.txt - breakout reviews num:360
+begin:2017-06-30, end:2018-07-11, length:377
+begin:2017-06-30, end:2017-09-24, length:87
+487587024.txt - breakout reviews num:2158
+begin:2017-07-03, end:2018-07-04, length:367
+487587200.txt - breakout reviews num:481
+begin:2017-07-03, end:2018-07-05, length:368
+begin:2017-06-30, end:2018-07-02, length:368
+487590015.txt - breakout reviews num:1990
+begin:2017-07-01, end:2018-07-12, length:377
+487590185.txt - breakout reviews num:5898
+begin:2017-07-01, end:2018-07-16, length:381
+487590187.txt - breakout reviews num:13013
+begin:2017-06-30, end:2018-06-06, length:342
+487594525.txt - breakout reviews num:943
+begin:2017-07-03, end:2017-07-31, length:29
+begin:2017-07-03, end:2018-03-19, length:260
+begin:2017-07-01, end:2018-07-07, length:372
+begin:2017-07-02, end:2018-07-01, length:365
+begin:2017-07-02, end:2017-09-15, length:76
+488058809.txt - breakout reviews num:206
+begin:2017-07-03, end:2018-04-27, length:299
+begin:2017-07-03, end:2018-06-28, length:361
+488169706.txt - breakout reviews num:1703
+begin:2017-07-03, end:2018-02-14, length:227
+488199895.txt - breakout reviews num:267
+begin:2017-07-04, end:2018-04-02, length:273
+488256319.txt - breakout reviews num:9353
+begin:2017-07-05, end:2018-07-13, length:374
+begin:2017-07-07, end:2018-07-03, length:362
+488256974.txt - breakout reviews num:1747
+begin:2017-07-05, end:2018-07-07, length:368
+488267212.txt - breakout reviews num:221
+begin:2017-07-04, end:2018-07-10, length:372
+488267621.txt - breakout reviews num:3524
+begin:2017-07-06, end:2018-07-04, length:364
+488267632.txt - breakout reviews num:2177
+begin:2017-07-12, end:2018-07-13, length:367
+begin:2017-07-07, end:2018-07-15, length:374
+begin:2017-07-07, end:2018-07-11, length:370
+begin:2017-07-07, end:2018-06-27, length:356
+488641748.txt - breakout reviews num:2117
+begin:2017-07-07, end:2018-06-27, length:356
+488641764.txt - breakout reviews num:290
+begin:2017-07-06, end:2018-07-02, length:362
+begin:2017-07-07, end:2018-06-26, length:355
+begin:2017-07-10, end:2017-10-31, length:114
+488647567.txt - breakout reviews num:2499
+begin:2017-07-07, end:2018-07-06, length:365
+488647739.txt - breakout reviews num:1044
+begin:2017-07-08, end:2018-07-11, length:369
+488647815.txt - breakout reviews num:712
+begin:2017-07-07, end:2018-07-05, length:364
+488654421.txt - breakout reviews num:3291
+begin:2017-07-07, end:2018-07-09, length:368
+488654750.txt - breakout reviews num:593
+begin:2017-07-07, end:2018-06-02, length:331
+begin:2017-07-07, end:2018-07-09, length:368
+488654972.txt - breakout reviews num:355
+begin:2017-07-12, end:2018-07-12, length:366
+begin:2017-07-07, end:2018-07-09, length:368
+begin:2017-07-07, end:2018-06-30, length:359
+488990473.txt - breakout reviews num:219
+begin:2017-07-07, end:2018-06-29, length:358
+begin:2017-07-08, end:2018-06-18, length:346
+begin:2017-07-07, end:2018-06-28, length:357
+489122396.txt - breakout reviews num:667
+begin:2017-07-08, end:2018-07-12, length:370
+begin:2017-07-08, end:2018-06-27, length:355
+489291227.txt - breakout reviews num:790
+begin:2017-07-10, end:2018-03-27, length:261
+489302060.txt - breakout reviews num:574
+begin:2017-07-11, end:2018-07-13, length:368
+489302495.txt - breakout reviews num:1639
+begin:2017-07-08, end:2018-07-14, length:372
+489317472.txt - breakout reviews num:7822
+begin:2017-07-10, end:2017-10-27, length:110
+489506011.txt - breakout reviews num:2141
+begin:2017-07-09, end:2017-08-02, length:25
+489590061.txt - breakout reviews num:2008
+begin:2017-07-09, end:2018-06-22, length:349
+489625611.txt - breakout reviews num:817
+begin:2017-07-11, end:2018-07-05, length:360
+489768079.txt - breakout reviews num:9608
+begin:2017-07-11, end:2018-04-02, length:266
+489768475.txt - breakout reviews num:981
+begin:2017-07-11, end:2018-06-30, length:355
+489770031.txt - breakout reviews num:869
+begin:2017-07-11, end:2018-07-11, length:366
+489895944.txt - breakout reviews num:420
+begin:2017-07-12, end:2018-03-23, length:255
+489997465.txt - breakout reviews num:1995
+begin:2017-07-14, end:2018-06-28, length:350
+489997584.txt - breakout reviews num:11860
+begin:2017-07-13, end:2018-07-13, length:366
+489997992.txt - breakout reviews num:3972
+begin:2017-07-13, end:2018-06-25, length:348
+489998002.txt - breakout reviews num:947
+begin:2017-07-12, end:2018-07-04, length:358
+begin:2017-07-12, end:2018-07-07, length:361
+begin:2017-07-15, end:2018-07-12, length:363
+489998155.txt - breakout reviews num:308
+begin:2017-07-13, end:2018-06-30, length:353
+489998339.txt - breakout reviews num:1320
+begin:2017-08-29, end:2018-06-28, length:304
+begin:2017-07-13, end:2018-06-25, length:348
+489998458.txt - breakout reviews num:14127
+begin:2017-07-16, end:2018-07-16, length:366
+489998870.txt - breakout reviews num:203
+begin:2017-07-12, end:2018-01-18, length:191
+490195599.txt - breakout reviews num:354
+begin:2017-07-12, end:2018-07-09, length:363
+490264177.txt - breakout reviews num:473
+begin:2017-07-13, end:2018-07-01, length:354
+begin:2017-07-13, end:2018-05-08, length:300
+490313011.txt - breakout reviews num:3588
+begin:2017-07-13, end:2018-06-24, length:347
+490358037.txt - breakout reviews num:3188
+begin:2017-07-13, end:2018-07-16, length:369
+begin:2017-07-13, end:2018-07-08, length:361
+490381071.txt - breakout reviews num:3453
+begin:2017-08-03, end:2018-06-13, length:315
+490381072.txt - breakout reviews num:459
+begin:2017-08-10, end:2018-06-25, length:320
+490381076.txt - breakout reviews num:913
+begin:2017-07-16, end:2018-06-28, length:348
+490381113.txt - breakout reviews num:4795
+begin:2017-07-14, end:2018-07-11, length:363
+begin:2017-07-14, end:2018-06-25, length:347
+490381152.txt - breakout reviews num:477
+begin:2017-07-13, end:2018-07-07, length:360
+begin:2017-07-13, end:2018-07-11, length:364
+begin:2017-07-14, end:2018-06-26, length:348
+begin:2017-07-14, end:2018-07-15, length:367
+490595250.txt - breakout reviews num:1009
+begin:2017-07-15, end:2018-07-14, length:365
+490595323.txt - breakout reviews num:3365
+begin:2017-07-15, end:2017-07-28, length:14
+490595339.txt - breakout reviews num:921
+begin:2017-07-17, end:2018-06-30, length:349
+490595733.txt - breakout reviews num:972
+begin:2017-07-17, end:2018-06-30, length:349
+begin:2017-07-18, end:2018-07-17, length:365
+490595927.txt - breakout reviews num:9219
+begin:2017-07-19, end:2018-07-05, length:352
+490595932.txt - breakout reviews num:460
+begin:2017-07-14, end:2018-07-11, length:363
+490602265.txt - breakout reviews num:3464
+begin:2017-07-14, end:2018-06-26, length:348
+490602324.txt - breakout reviews num:1100
+begin:2017-07-16, end:2018-07-02, length:352
+490602330.txt - breakout reviews num:4341
+begin:2017-07-15, end:2018-06-27, length:348
+490602336.txt - breakout reviews num:2861
+begin:2017-07-15, end:2018-06-26, length:347
+490602337.txt - breakout reviews num:2369
+begin:2017-07-17, end:2018-07-13, length:362
+490602392.txt - breakout reviews num:2450
+begin:2017-07-18, end:2018-07-11, length:359
+begin:2017-07-14, end:2018-06-28, length:350
+490687121.txt - breakout reviews num:3269
+begin:2017-07-26, end:2018-04-27, length:276
+begin:2017-07-17, end:2018-07-06, length:355
+491225913.txt - breakout reviews num:1144
+begin:2017-07-18, end:2018-07-15, length:363
+491294068.txt - breakout reviews num:929
+begin:2017-07-19, end:2018-05-17, length:303
+491295238.txt - breakout reviews num:1112
+begin:2017-07-19, end:2017-08-07, length:20
+begin:2017-07-19, end:2017-08-20, length:33
+491295442.txt - breakout reviews num:1091
+begin:2017-07-21, end:2018-07-01, length:346
+begin:2017-07-18, end:2018-06-24, length:342
+begin:2017-07-19, end:2018-07-01, length:348
+begin:2017-07-21, end:2018-07-14, length:359
+491686054.txt - breakout reviews num:851
+begin:2017-07-20, end:2018-07-03, length:349
+491695403.txt - breakout reviews num:2244
+begin:2017-07-19, end:2018-07-06, length:353
+491697029.txt - breakout reviews num:481
+begin:2017-07-19, end:2018-06-27, length:344
+491787693.txt - breakout reviews num:6200
+begin:2017-07-19, end:2017-11-13, length:118
+491796073.txt - breakout reviews num:428
+begin:2017-07-20, end:2017-08-03, length:15
+begin:2017-07-20, end:2018-03-13, length:237
+begin:2017-07-22, end:2018-06-28, length:342
+491943346.txt - breakout reviews num:3867
+begin:2017-07-20, end:2017-09-15, length:58
+491950112.txt - breakout reviews num:4778
+begin:2017-07-20, end:2017-07-29, length:10
+491950114.txt - breakout reviews num:235
+begin:2017-07-21, end:2018-05-20, length:304
+491950327.txt - breakout reviews num:318
+begin:2017-07-21, end:2018-07-07, length:352
+491955164.txt - breakout reviews num:678
+begin:2017-07-21, end:2018-07-04, length:349
+begin:2017-07-22, end:2018-06-25, length:339
+begin:2017-07-21, end:2018-07-11, length:356
+492003330.txt - breakout reviews num:624
+begin:2017-07-21, end:2018-05-19, length:303
+492003705.txt - breakout reviews num:828
+begin:2017-07-21, end:2018-07-02, length:347
+492003776.txt - breakout reviews num:532
+begin:2017-07-21, end:2018-07-07, length:352
+492014010.txt - breakout reviews num:802
+begin:2017-07-21, end:2018-07-13, length:358
+492063371.txt - breakout reviews num:269
+begin:2017-07-21, end:2018-06-26, length:341
+492102331.txt - breakout reviews num:582
+begin:2017-07-24, end:2018-06-12, length:324
+492144283.txt - breakout reviews num:783
+begin:2017-07-25, end:2018-06-30, length:341
+492145730.txt - breakout reviews num:2895
+begin:2017-07-21, end:2018-07-12, length:357
+492146902.txt - breakout reviews num:834
+begin:2017-07-25, end:2018-07-02, length:343
+492151019.txt - breakout reviews num:2122
+begin:2017-07-21, end:2018-06-24, length:339
+492151151.txt - breakout reviews num:390
+begin:2017-07-21, end:2018-07-04, length:349
+492151326.txt - breakout reviews num:4826
+begin:2017-07-23, end:2018-05-26, length:308
+492151344.txt - breakout reviews num:388
+begin:2017-07-22, end:2017-08-02, length:12
+492151515.txt - breakout reviews num:966
+begin:2017-07-21, end:2018-07-15, length:360
+492165144.txt - breakout reviews num:250
+begin:2017-07-21, end:2018-07-02, length:347
+492189982.txt - breakout reviews num:2487
+begin:2017-07-24, end:2018-06-12, length:324
+492842010.txt - breakout reviews num:327
+begin:2017-07-25, end:2018-06-17, length:328
+begin:2017-07-25, end:2018-05-07, length:287
+begin:2017-07-25, end:2018-05-01, length:281
+begin:2017-08-04, end:2018-06-21, length:322
+begin:2017-07-26, end:2018-07-11, length:351
+begin:2017-07-27, end:2018-07-05, length:344
+begin:2017-07-28, end:2018-06-29, length:337
+493041219.txt - breakout reviews num:451
+begin:2017-07-26, end:2018-06-23, length:333
+493041302.txt - breakout reviews num:1812
+begin:2017-07-28, end:2018-07-12, length:350
+493042772.txt - breakout reviews num:7357
+begin:2017-07-26, end:2018-06-18, length:328
+493043003.txt - breakout reviews num:204
+begin:2017-07-26, end:2018-07-15, length:355
+493153430.txt - breakout reviews num:1061
+begin:2017-07-28, end:2018-06-27, length:335
+493276976.txt - breakout reviews num:400
+begin:2017-08-04, end:2018-06-29, length:330
+493283125.txt - breakout reviews num:13156
+begin:2017-07-27, end:2018-07-10, length:349
+493283250.txt - breakout reviews num:4561
+begin:2018-03-05, end:2018-07-03, length:121
+begin:2017-07-28, end:2018-03-03, length:219
+493283642.txt - breakout reviews num:1182
+begin:2017-07-28, end:2018-07-10, length:348
+begin:2017-07-31, end:2018-07-02, length:337
+493285752.txt - breakout reviews num:646
+begin:2017-07-28, end:2018-06-30, length:338
+493285796.txt - breakout reviews num:10562
+begin:2017-07-28, end:2018-05-21, length:298
+begin:2017-07-28, end:2018-07-01, length:339
+493449813.txt - breakout reviews num:1599
+begin:2017-07-27, end:2018-07-08, length:347
+begin:2017-08-04, end:2018-07-04, length:335
+begin:2017-09-11, end:2018-04-25, length:227
+begin:2017-07-28, end:2018-07-08, length:346
+493581459.txt - breakout reviews num:324
+begin:2017-07-31, end:2018-07-13, length:348
+493623977.txt - breakout reviews num:571
+begin:2017-07-28, end:2018-07-04, length:342
+begin:2017-07-28, end:2018-07-08, length:346
+493646285.txt - breakout reviews num:1943
+begin:2017-07-28, end:2018-07-05, length:343
+493646288.txt - breakout reviews num:787
+begin:2017-07-28, end:2018-06-24, length:332
+493663235.txt - breakout reviews num:5568
+begin:2017-07-28, end:2018-07-13, length:351
+493679836.txt - breakout reviews num:656
+begin:2017-08-03, end:2018-07-10, length:342
+begin:2017-07-28, end:2018-07-01, length:339
+493735011.txt - breakout reviews num:927
+begin:2017-07-29, end:2018-07-05, length:342
+493735037.txt - breakout reviews num:1097
+begin:2017-07-31, end:2018-06-06, length:311
+493735656.txt - breakout reviews num:350
+begin:2017-07-29, end:2018-07-06, length:343
+493845025.txt - breakout reviews num:235
+begin:2017-07-29, end:2018-06-30, length:337
+493950524.txt - breakout reviews num:1076
+begin:2017-07-30, end:2018-07-09, length:345
+494152135.txt - breakout reviews num:11739
+begin:2017-07-30, end:2018-07-12, length:348
+begin:2017-07-31, end:2018-07-11, length:346
+494240085.txt - breakout reviews num:531
+begin:2017-07-31, end:2018-06-10, length:315
+begin:2017-08-01, end:2018-07-12, length:346
+begin:2017-07-31, end:2018-07-15, length:350
+begin:2017-08-08, end:2017-10-30, length:84
+begin:2017-08-01, end:2018-06-24, length:328
+begin:2017-08-01, end:2018-06-26, length:330
+begin:2017-08-29, end:2018-07-14, length:320
+begin:2017-08-29, end:2018-07-08, length:314
+begin:2017-08-02, end:2018-07-10, length:343
+494642740.txt - breakout reviews num:934
+begin:2017-08-02, end:2018-04-28, length:270
+494844206.txt - breakout reviews num:1021
+begin:2017-08-04, end:2018-07-12, length:343
+494858544.txt - breakout reviews num:11605
+begin:2017-08-03, end:2018-07-01, length:333
+begin:2017-08-03, end:2018-06-27, length:329
+494862379.txt - breakout reviews num:3558
+begin:2017-08-03, end:2018-06-30, length:332
+494865733.txt - breakout reviews num:471
+begin:2017-08-03, end:2018-07-07, length:339
+494865734.txt - breakout reviews num:409
+begin:2017-08-03, end:2018-07-01, length:333
+494865736.txt - breakout reviews num:353
+begin:2017-08-04, end:2018-06-29, length:330
+494865776.txt - breakout reviews num:1518
+begin:2017-08-04, end:2018-06-22, length:323
+494865778.txt - breakout reviews num:727
+begin:2017-08-04, end:2018-07-12, length:343
+494865914.txt - breakout reviews num:990
+begin:2017-08-04, end:2018-07-16, length:347
+495220189.txt - breakout reviews num:277
+begin:2017-08-03, end:2018-06-30, length:332
+495220239.txt - breakout reviews num:2721
+begin:2017-08-03, end:2018-06-26, length:328
+495220243.txt - breakout reviews num:1619
+begin:2017-08-04, end:2018-07-06, length:337
+495220271.txt - breakout reviews num:2617
+begin:2017-08-04, end:2018-06-28, length:329
+495220278.txt - breakout reviews num:426
+begin:2017-08-04, end:2018-07-12, length:343
+begin:2017-08-07, end:2018-07-12, length:340
+495220387.txt - breakout reviews num:513
+begin:2017-08-05, end:2017-10-31, length:88
+495220655.txt - breakout reviews num:1807
+begin:2017-08-03, end:2018-06-28, length:330
+495321577.txt - breakout reviews num:568
+begin:2017-08-04, end:2018-07-01, length:332
+495395049.txt - breakout reviews num:400
+begin:2017-08-04, end:2018-07-06, length:337
+495395058.txt - breakout reviews num:420
+begin:2017-08-04, end:2018-06-26, length:327
+begin:2017-08-08, end:2018-07-04, length:331
+495542293.txt - breakout reviews num:586
+begin:2017-08-04, end:2018-01-16, length:166
+495557664.txt - breakout reviews num:824
+begin:2017-08-04, end:2018-07-05, length:336
+495569140.txt - breakout reviews num:833
+begin:2017-08-04, end:2018-02-14, length:195
+begin:2017-08-14, end:2018-07-08, length:329
+495909429.txt - breakout reviews num:892
+begin:2017-08-07, end:2018-07-15, length:343
+begin:2017-08-08, end:2018-07-04, length:331
+496298743.txt - breakout reviews num:952
+begin:2017-08-09, end:2018-06-25, length:321
+496298757.txt - breakout reviews num:565
+begin:2017-09-08, end:2018-07-11, length:307
+begin:2017-08-08, end:2018-06-13, length:310
+496617158.txt - breakout reviews num:322
+begin:2017-08-08, end:2018-07-16, length:343
+496619464.txt - breakout reviews num:575
+begin:2017-08-11, end:2018-06-29, length:323
+496620009.txt - breakout reviews num:5341
+begin:2017-08-08, end:2018-07-15, length:342
+496729626.txt - breakout reviews num:907
+begin:2017-08-09, end:2018-06-27, length:323
+496793115.txt - breakout reviews num:3531
+begin:2017-08-09, end:2018-06-21, length:317
+begin:2017-09-11, end:2018-07-17, length:310
+496869420.txt - breakout reviews num:498
+begin:2017-08-10, end:2018-06-28, length:323
+496869519.txt - breakout reviews num:6582
+begin:2017-08-10, end:2018-07-08, length:333
+496869520.txt - breakout reviews num:11013
+begin:2017-08-10, end:2018-06-30, length:325
+496869523.txt - breakout reviews num:12644
+begin:2017-08-10, end:2018-07-01, length:326
+496869524.txt - breakout reviews num:2773
+begin:2017-08-14, end:2018-02-07, length:178
+496902797.txt - breakout reviews num:14558
+begin:2017-08-09, end:2018-07-06, length:332
+496948864.txt - breakout reviews num:256
+begin:2017-08-10, end:2018-07-14, length:339
+begin:2017-08-10, end:2018-07-11, length:336
+497041465.txt - breakout reviews num:974
+begin:2017-08-10, end:2018-06-30, length:325
+497076845.txt - breakout reviews num:1124
+begin:2017-08-10, end:2018-06-27, length:322
+begin:2017-08-11, end:2018-06-25, length:319
+begin:2017-08-11, end:2018-02-15, length:189
+begin:2017-08-11, end:2018-07-15, length:339
+497223108.txt - breakout reviews num:213
+begin:2017-08-11, end:2017-10-13, length:64
+497223670.txt - breakout reviews num:1242
+begin:2017-08-10, end:2018-06-18, length:313
+begin:2017-08-11, end:2018-07-06, length:330
+497420020.txt - breakout reviews num:4465
+begin:2017-08-14, end:2018-07-01, length:322
+begin:2017-08-11, end:2018-05-21, length:284
+497474838.txt - breakout reviews num:545
+begin:2017-08-11, end:2018-07-05, length:329
+497542676.txt - breakout reviews num:236
+begin:2017-08-25, end:2018-06-02, length:282
+begin:2017-08-11, end:2018-06-30, length:324
+497604505.txt - breakout reviews num:821
+begin:2017-08-14, end:2018-07-02, length:323
+begin:2017-08-14, end:2018-07-10, length:331
+begin:2017-08-14, end:2018-06-30, length:321
+497745640.txt - breakout reviews num:1026
+begin:2017-08-14, end:2018-07-11, length:332
+497755479.txt - breakout reviews num:227
+begin:2017-08-13, end:2017-10-24, length:73
+497937423.txt - breakout reviews num:2439
+begin:2017-08-13, end:2018-01-04, length:145
+begin:2017-08-13, end:2018-06-20, length:312
+498043823.txt - breakout reviews num:794
+begin:2017-08-13, end:2018-06-13, length:305
+begin:2017-08-18, end:2018-07-17, length:334
+498286647.txt - breakout reviews num:1057
+begin:2017-08-16, end:2018-07-17, length:336
+498321773.txt - breakout reviews num:5331
+begin:2017-08-16, end:2018-07-07, length:326
+498331298.txt - breakout reviews num:842
+begin:2017-08-14, end:2017-09-29, length:47
+begin:2017-08-15, end:2018-06-24, length:314
+498519488.txt - breakout reviews num:670
+begin:2017-08-18, end:2018-06-30, length:317
+498555085.txt - breakout reviews num:343
+begin:2017-08-17, end:2018-06-26, length:314
+498555800.txt - breakout reviews num:396
+begin:2017-08-17, end:2018-06-26, length:314
+498555901.txt - breakout reviews num:2052
+begin:2017-08-15, end:2018-07-09, length:329
+498708260.txt - breakout reviews num:1745
+begin:2017-08-16, end:2018-06-30, length:319
+498814637.txt - breakout reviews num:2340
+begin:2017-08-16, end:2018-07-15, length:334
+begin:2017-08-16, end:2018-07-12, length:331
+499031134.txt - breakout reviews num:1295
+begin:2017-08-17, end:2018-07-09, length:327
+499222316.txt - breakout reviews num:597
+begin:2017-08-18, end:2018-06-25, length:312
+499222357.txt - breakout reviews num:3269
+begin:2017-08-18, end:2018-06-24, length:311
+499222369.txt - breakout reviews num:359
+begin:2017-08-22, end:2018-07-04, length:317
+499274364.txt - breakout reviews num:494
+begin:2017-08-22, end:2018-07-03, length:316
+499274447.txt - breakout reviews num:1728
+begin:2017-08-21, end:2018-07-10, length:324
+499275445.txt - breakout reviews num:272
+begin:2017-08-17, end:2018-06-28, length:316
+499295163.txt - breakout reviews num:2858
+begin:2017-08-18, end:2018-07-08, length:325
+begin:2017-08-18, end:2018-07-01, length:318
+499384441.txt - breakout reviews num:1029
+begin:2017-08-20, end:2018-06-29, length:314
+499465976.txt - breakout reviews num:364
+begin:2017-08-18, end:2018-06-29, length:316
+begin:2017-08-20, end:2018-07-06, length:321
+499673121.txt - breakout reviews num:1417
+begin:2017-08-19, end:2018-07-11, length:327
+499901710.txt - breakout reviews num:2582
+begin:2017-08-20, end:2018-06-24, length:309
+499913016.txt - breakout reviews num:1196
+begin:2017-08-24, end:2018-06-26, length:307
+499957715.txt - breakout reviews num:623
+begin:2017-08-20, end:2018-06-29, length:314
+begin:2017-08-20, end:2018-06-26, length:311
+500105976.txt - breakout reviews num:1353
+begin:2017-08-23, end:2018-06-30, length:312
+500309741.txt - breakout reviews num:590
+begin:2017-08-21, end:2018-06-28, length:312
+begin:2017-08-21, end:2018-06-28, length:312
+begin:2017-08-21, end:2018-06-26, length:310
+500412113.txt - breakout reviews num:1486
+begin:2017-08-22, end:2018-06-27, length:310
+500412319.txt - breakout reviews num:347
+begin:2017-08-23, end:2018-06-26, length:308
+500412390.txt - breakout reviews num:2696
+begin:2017-08-23, end:2018-07-07, length:319
+500665312.txt - breakout reviews num:291
+begin:2017-08-22, end:2018-06-24, length:307
+500672492.txt - breakout reviews num:252
+begin:2017-08-22, end:2018-07-17, length:330
+500684165.txt - breakout reviews num:1464
+begin:2017-08-23, end:2018-05-25, length:276
+500684222.txt - breakout reviews num:501
+begin:2017-08-23, end:2018-07-14, length:326
+500684552.txt - breakout reviews num:1091
+begin:2017-08-23, end:2018-07-03, length:315
+500686367.txt - breakout reviews num:263
+begin:2017-08-24, end:2018-06-15, length:296
+500686525.txt - breakout reviews num:3799
+begin:2017-08-22, end:2017-11-30, length:101
+500777520.txt - breakout reviews num:3677
+begin:2017-08-23, end:2018-06-26, length:308
+500909764.txt - breakout reviews num:219
+begin:2017-08-27, end:2018-06-30, length:308
+500913929.txt - breakout reviews num:4026
+begin:2017-08-25, end:2018-07-03, length:313
+501133525.txt - breakout reviews num:1231
+begin:2017-08-25, end:2018-06-28, length:308
+501214062.txt - breakout reviews num:234
+begin:2017-08-28, end:2018-06-17, length:294
+begin:2017-08-28, end:2018-06-28, length:305
+501214711.txt - breakout reviews num:616
+begin:2017-08-28, end:2018-07-08, length:315
+501214748.txt - breakout reviews num:3007
+begin:2017-08-25, end:2018-06-19, length:299
+501220037.txt - breakout reviews num:590
+begin:2017-08-24, end:2018-06-25, length:306
+501220038.txt - breakout reviews num:1019
+begin:2017-08-29, end:2018-06-29, length:305
+501220106.txt - breakout reviews num:8411
+begin:2017-08-28, end:2018-07-14, length:321
+501220593.txt - breakout reviews num:204
+begin:2017-08-28, end:2018-07-11, length:318
+501220719.txt - breakout reviews num:3573
+begin:2017-08-28, end:2018-07-13, length:320
+begin:2017-08-29, end:2018-07-16, length:322
+501221008.txt - breakout reviews num:2369
+begin:2017-08-25, end:2018-07-14, length:324
+begin:2017-08-25, end:2018-06-27, length:307
+501393733.txt - breakout reviews num:607
+begin:2017-08-25, end:2018-07-04, length:314
+501456898.txt - breakout reviews num:321
+begin:2017-08-31, end:2018-06-27, length:301
+501467192.txt - breakout reviews num:2475
+begin:2017-08-25, end:2018-07-04, length:314
+501551714.txt - breakout reviews num:658
+begin:2017-08-27, end:2018-05-21, length:268
+begin:2017-09-01, end:2018-07-06, length:309
+begin:2017-08-27, end:2018-07-09, length:317
+501928179.txt - breakout reviews num:1847
+begin:2017-08-27, end:2018-07-07, length:315
+502011505.txt - breakout reviews num:4316
+begin:2017-08-27, end:2018-06-29, length:307
+502037038.txt - breakout reviews num:590
+begin:2017-08-28, end:2018-07-05, length:312
+begin:2017-08-28, end:2018-07-09, length:316
+502128933.txt - breakout reviews num:581
+begin:2017-08-28, end:2018-06-29, length:306
+502192566.txt - breakout reviews num:216
+begin:2017-08-30, end:2018-07-13, length:318
+502228365.txt - breakout reviews num:2090
+begin:2017-09-05, end:2018-07-10, length:309
+502229006.txt - breakout reviews num:264
+begin:2017-08-30, end:2018-07-08, length:313
+502238299.txt - breakout reviews num:1339
+begin:2017-08-30, end:2018-07-13, length:318
+502238300.txt - breakout reviews num:814
+begin:2017-08-30, end:2018-06-29, length:304
+begin:2017-08-30, end:2018-06-30, length:305
+begin:2017-08-31, end:2018-07-10, length:314
+502238635.txt - breakout reviews num:1109
+begin:2017-09-01, end:2018-05-17, length:259
+begin:2017-09-01, end:2018-06-05, length:278
+502448961.txt - breakout reviews num:259
+begin:2017-08-30, end:2018-07-13, length:318
+502455384.txt - breakout reviews num:601
+begin:2017-08-30, end:2018-07-12, length:317
+begin:2017-08-30, end:2018-07-14, length:319
+begin:2017-09-03, end:2018-07-03, length:304
+begin:2017-09-01, end:2018-07-07, length:310
+502706095.txt - breakout reviews num:1173
+begin:2017-08-31, end:2018-07-10, length:314
+502706628.txt - breakout reviews num:2692
+begin:2017-08-31, end:2018-06-28, length:302
+502706999.txt - breakout reviews num:241
+begin:2017-08-31, end:2018-07-12, length:316
+502709934.txt - breakout reviews num:997
+begin:2017-08-31, end:2018-06-22, length:296
+502835907.txt - breakout reviews num:314
+begin:2017-09-04, end:2018-07-17, length:317
+502925437.txt - breakout reviews num:4927
+begin:2017-08-31, end:2018-07-10, length:314
+503013129.txt - breakout reviews num:2959
+begin:2017-09-01, end:2018-07-02, length:305
+503016184.txt - breakout reviews num:895
+begin:2017-09-01, end:2018-06-24, length:297
+503020015.txt - breakout reviews num:840
+begin:2017-08-31, end:2018-07-14, length:318
+503020019.txt - breakout reviews num:838
+begin:2017-09-01, end:2018-06-14, length:287
+begin:2017-09-04, end:2018-06-24, length:294
+begin:2017-09-01, end:2018-06-23, length:296
+503061385.txt - breakout reviews num:2707
+begin:2017-09-04, end:2018-03-03, length:181
+begin:2017-09-02, end:2018-06-26, length:298
+503127217.txt - breakout reviews num:4000
+begin:2017-09-04, end:2018-07-03, length:303
+503127230.txt - breakout reviews num:682
+begin:2017-09-05, end:2018-07-06, length:305
+begin:2017-09-04, end:2018-06-08, length:278
+begin:2017-09-05, end:2018-06-27, length:296
+503206703.txt - breakout reviews num:908
+begin:2017-09-04, end:2018-07-03, length:303
+begin:2017-09-05, end:2018-07-05, length:304
+503207464.txt - breakout reviews num:1738
+begin:2017-09-05, end:2018-07-08, length:307
+503207658.txt - breakout reviews num:858
+begin:2017-09-02, end:2018-07-06, length:308
+503463966.txt - breakout reviews num:1133
+begin:2017-09-03, end:2018-07-15, length:316
+503586811.txt - breakout reviews num:1131
+begin:2017-09-04, end:2018-06-30, length:300
+503819010.txt - breakout reviews num:308
+begin:2017-09-08, end:2018-07-09, length:305
+503853605.txt - breakout reviews num:11592
+begin:2017-09-04, end:2018-06-30, length:300
+begin:2017-09-05, end:2018-06-26, length:295
+503974276.txt - breakout reviews num:5166
+begin:2017-09-06, end:2018-07-12, length:310
+begin:2017-09-06, end:2018-07-08, length:306
+504016262.txt - breakout reviews num:244
+begin:2017-09-05, end:2018-07-13, length:312
+504018834.txt - breakout reviews num:248
+begin:2017-09-05, end:2018-01-15, length:133
+504044937.txt - breakout reviews num:399
+begin:2017-09-06, end:2017-09-11, length:6
+begin:2017-09-06, end:2018-07-02, length:300
+504204133.txt - breakout reviews num:241
+begin:2017-12-08, end:2018-07-09, length:214
+begin:2017-09-10, end:2018-07-04, length:298
+504215859.txt - breakout reviews num:224
+begin:2017-09-06, end:2018-07-02, length:300
+begin:2017-09-08, end:2018-07-01, length:297
+begin:2017-09-06, end:2018-06-28, length:296
+504244955.txt - breakout reviews num:719
+begin:2017-09-06, end:2018-07-13, length:311
+504264115.txt - breakout reviews num:360
+begin:2017-09-06, end:2018-07-13, length:311
+begin:2017-09-06, end:2018-07-01, length:299
+504264242.txt - breakout reviews num:300
+begin:2017-09-08, end:2018-07-17, length:313
+504265014.txt - breakout reviews num:7287
+begin:2017-09-07, end:2018-02-20, length:167
+504265108.txt - breakout reviews num:3243
+begin:2017-09-06, end:2018-07-11, length:309
+504277640.txt - breakout reviews num:328
+begin:2017-09-07, end:2018-07-07, length:304
+504419189.txt - breakout reviews num:636
+begin:2017-09-28, end:2018-07-08, length:284
+begin:2017-09-08, end:2018-07-14, length:310
+504425721.txt - breakout reviews num:1731
+begin:2017-09-08, end:2018-06-29, length:295
+begin:2017-09-07, end:2018-07-08, length:305
+504466470.txt - breakout reviews num:517
+begin:2017-09-08, end:2018-05-21, length:256
+504487077.txt - breakout reviews num:6081
+begin:2017-09-07, end:2018-06-16, length:283
+504487148.txt - breakout reviews num:277
+begin:2017-09-07, end:2018-04-29, length:235
+504487172.txt - breakout reviews num:239
+begin:2017-09-08, end:2018-04-07, length:212
+504492038.txt - breakout reviews num:257
+begin:2017-09-07, end:2018-07-07, length:304
+504492133.txt - breakout reviews num:2601
+begin:2017-09-08, end:2017-09-30, length:23
+504492227.txt - breakout reviews num:252
+begin:2017-09-07, end:2018-07-01, length:298
+504505986.txt - breakout reviews num:1313
+begin:2017-09-08, end:2018-05-25, length:260
+begin:2017-09-08, end:2018-07-03, length:299
+504587524.txt - breakout reviews num:3221
+begin:2017-09-08, end:2018-07-01, length:297
+504587610.txt - breakout reviews num:260
+begin:2017-09-11, end:2018-07-03, length:296
+504646515.txt - breakout reviews num:223
+begin:2017-09-08, end:2018-07-10, length:306
+504685237.txt - breakout reviews num:978
+begin:2017-09-09, end:2018-07-06, length:301
+begin:2017-09-11, end:2018-07-12, length:305
+504685421.txt - breakout reviews num:416
+begin:2017-09-15, end:2018-07-10, length:299
+504685848.txt - breakout reviews num:1091
+begin:2017-09-08, end:2018-07-02, length:298
+begin:2017-09-08, end:2018-06-25, length:291
+504686144.txt - breakout reviews num:214
+begin:2017-09-15, end:2018-07-06, length:295
+504686858.txt - breakout reviews num:3473
+begin:2017-09-15, end:2018-06-28, length:287
+504686859.txt - breakout reviews num:398
+begin:2017-09-11, end:2018-05-15, length:247
+504686951.txt - breakout reviews num:2667
+begin:2017-09-08, end:2018-07-03, length:299
+504701155.txt - breakout reviews num:1542
+begin:2017-09-08, end:2018-06-27, length:293
+begin:2017-09-08, end:2018-07-07, length:303
+504717970.txt - breakout reviews num:647
+begin:2017-09-08, end:2018-07-03, length:299
+504826080.txt - breakout reviews num:3141
+begin:2017-09-09, end:2018-07-11, length:306
+504914212.txt - breakout reviews num:3180
+begin:2017-09-09, end:2018-07-08, length:303
+504938724.txt - breakout reviews num:468
+begin:2017-09-18, end:2018-07-02, length:288
+begin:2017-09-10, end:2018-03-15, length:187
+505084652.txt - breakout reviews num:1569
+begin:2017-09-10, end:2018-02-25, length:169
+505173227.txt - breakout reviews num:1487
+begin:2017-09-10, end:2018-07-14, length:308
+begin:2017-09-13, end:2018-07-09, length:300
+begin:2017-09-26, end:2018-07-07, length:285
+begin:2017-09-14, end:2018-07-10, length:300
+begin:2017-09-13, end:2018-07-11, length:302
+505451285.txt - breakout reviews num:12622
+begin:2017-09-14, end:2018-07-12, length:302
+begin:2017-09-13, end:2018-07-15, length:306
+505451605.txt - breakout reviews num:1687
+begin:2017-09-13, end:2018-07-15, length:306
+505451611.txt - breakout reviews num:279
+begin:2017-09-13, end:2018-06-30, length:291
+505474456.txt - breakout reviews num:1720
+begin:2017-09-12, end:2018-06-28, length:290
+505632651.txt - breakout reviews num:1007
+begin:2017-09-12, end:2018-07-04, length:296
+begin:2017-09-14, end:2018-05-06, length:235
+505818588.txt - breakout reviews num:967
+begin:2017-09-14, end:2018-06-26, length:286
+505818617.txt - breakout reviews num:989
+begin:2017-09-15, end:2018-07-02, length:291
+505828550.txt - breakout reviews num:1791
+begin:2017-09-15, end:2018-07-08, length:297
+505828966.txt - breakout reviews num:949
+begin:2017-09-13, end:2018-07-05, length:296
+505851663.txt - breakout reviews num:1092
+begin:2017-09-14, end:2018-07-13, length:303
+505851880.txt - breakout reviews num:1021
+begin:2017-09-13, end:2018-07-01, length:292
+505911491.txt - breakout reviews num:239
+begin:2017-09-14, end:2018-07-07, length:297
+505993560.txt - breakout reviews num:1363
+begin:2017-09-19, end:2017-09-26, length:8
+506002419.txt - breakout reviews num:380
+begin:2017-09-18, end:2018-03-13, length:177
+506002900.txt - breakout reviews num:261
+begin:2017-09-20, end:2018-06-30, length:284
+begin:2017-09-15, end:2018-06-16, length:275
+begin:2017-09-14, end:2018-07-03, length:293
+begin:2017-09-14, end:2018-07-04, length:294
+506092021.txt - breakout reviews num:383
+begin:2017-09-17, end:2018-06-14, length:271
+begin:2017-09-19, end:2018-07-05, length:290
+506092985.txt - breakout reviews num:791
+begin:2017-09-15, end:2018-06-12, length:271
+begin:2017-09-15, end:2018-06-22, length:281
+begin:2017-09-15, end:2018-07-04, length:293
+506094036.txt - breakout reviews num:391
+begin:2017-09-18, end:2018-07-08, length:294
+506094856.txt - breakout reviews num:424
+begin:2017-09-18, end:2018-07-16, length:302
+506094983.txt - breakout reviews num:1200
+begin:2017-09-15, end:2018-06-25, length:284
+506139360.txt - breakout reviews num:416
+begin:2017-09-15, end:2018-07-17, length:306
+506139548.txt - breakout reviews num:1550
+begin:2017-09-15, end:2018-06-30, length:289
+506224632.txt - breakout reviews num:2325
+begin:2017-09-15, end:2018-06-26, length:285
+506244264.txt - breakout reviews num:886
+begin:2017-09-17, end:2017-11-01, length:46
+begin:2017-09-17, end:2017-12-03, length:78
+begin:2017-09-17, end:2018-07-16, length:303
+506942692.txt - breakout reviews num:698
+begin:2017-09-17, end:2018-06-29, length:286
+506976257.txt - breakout reviews num:362
+begin:2017-09-18, end:2018-07-13, length:299
+506986373.txt - breakout reviews num:280
+begin:2017-09-18, end:2018-07-12, length:298
+507088745.txt - breakout reviews num:4640
+begin:2017-09-19, end:2018-07-02, length:287
+begin:2017-09-20, end:2018-07-12, length:296
+507114648.txt - breakout reviews num:284
+begin:2017-09-19, end:2018-07-16, length:301
+507116417.txt - breakout reviews num:226
+begin:2017-10-06, end:2018-07-06, length:274
+507134079.txt - breakout reviews num:227
+begin:2017-10-13, end:2018-07-06, length:267
+507134116.txt - breakout reviews num:978
+begin:2017-10-20, end:2018-07-12, length:266
+507134152.txt - breakout reviews num:439
+begin:2017-10-20, end:2018-07-05, length:259
+begin:2017-09-18, end:2018-06-28, length:284
+507143652.txt - breakout reviews num:513
+begin:2017-09-27, end:2018-06-26, length:273
+507364094.txt - breakout reviews num:280
+begin:2017-09-27, end:2018-07-04, length:281
+507364098.txt - breakout reviews num:326
+begin:2017-09-23, end:2018-07-07, length:288
+507364531.txt - breakout reviews num:418
+begin:2017-09-19, end:2018-07-08, length:293
+507369928.txt - breakout reviews num:491
+begin:2017-09-19, end:2018-07-02, length:287
+507394830.txt - breakout reviews num:205
+begin:2017-09-22, end:2018-07-06, length:288
+507532054.txt - breakout reviews num:726
+begin:2017-09-25, end:2018-06-30, length:279
+507532084.txt - breakout reviews num:12447
+begin:2017-09-25, end:2018-07-13, length:292
+507533057.txt - breakout reviews num:10297
+begin:2017-09-25, end:2018-06-29, length:278
+507533058.txt - breakout reviews num:3278
+begin:2017-09-23, end:2018-05-15, length:235
+507533344.txt - breakout reviews num:337
+begin:2017-09-20, end:2018-07-04, length:288
+begin:2017-09-20, end:2018-07-12, length:296
+begin:2017-09-21, end:2018-07-14, length:297
+507665557.txt - breakout reviews num:2403
+begin:2017-09-21, end:2018-07-02, length:285
+507702650.txt - breakout reviews num:943
+begin:2017-09-21, end:2018-02-14, length:147
+507727740.txt - breakout reviews num:4308
+begin:2017-09-21, end:2018-06-27, length:280
+507781742.txt - breakout reviews num:714
+begin:2017-09-22, end:2018-06-15, length:267
+begin:2017-09-21, end:2018-06-26, length:279
+begin:2017-09-23, end:2018-06-23, length:274
+begin:2017-09-25, end:2018-07-09, length:288
+507795186.txt - breakout reviews num:1679
+begin:2017-09-22, end:2018-07-07, length:289
+507795196.txt - breakout reviews num:298
+begin:2017-09-22, end:2018-07-03, length:285
+507795199.txt - breakout reviews num:362
+begin:2017-09-23, end:2018-05-18, length:238
+507795260.txt - breakout reviews num:510
+begin:2017-09-23, end:2018-07-11, length:292
+507795302.txt - breakout reviews num:494
+begin:2017-09-23, end:2018-07-14, length:295
+begin:2017-09-23, end:2018-07-01, length:282
+507796978.txt - breakout reviews num:450
+begin:2017-09-22, end:2018-07-08, length:290
+507924892.txt - breakout reviews num:1266
+begin:2017-09-22, end:2018-07-01, length:283
+507933257.txt - breakout reviews num:289
+begin:2017-09-22, end:2018-06-27, length:279
+begin:2017-09-22, end:2018-06-26, length:278
+begin:2017-09-22, end:2017-12-02, length:72
+508099217.txt - breakout reviews num:1092
+begin:2017-09-23, end:2017-09-26, length:4
+begin:2017-09-25, end:2018-07-07, length:286
+508297628.txt - breakout reviews num:1499
+begin:2017-09-25, end:2018-07-15, length:294
+begin:2017-09-23, end:2018-07-07, length:288
+508458226.txt - breakout reviews num:447
+begin:2017-09-23, end:2018-06-29, length:280
+508488136.txt - breakout reviews num:239
+begin:2017-10-06, end:2018-06-29, length:267
+begin:2017-09-26, end:2018-06-27, length:275
+508903855.txt - breakout reviews num:274
+begin:2017-09-27, end:2018-07-11, length:288
+508917573.txt - breakout reviews num:466
+begin:2017-09-25, end:2018-07-07, length:286
+begin:2017-09-26, end:2018-07-10, length:288
+begin:2017-10-09, end:2018-06-28, length:263
+509098885.txt - breakout reviews num:2156
+begin:2017-09-28, end:2018-06-29, length:275
+begin:2017-10-09, end:2018-07-06, length:271
+509106724.txt - breakout reviews num:1096
+begin:2017-09-27, end:2018-06-29, length:276
+begin:2017-09-28, end:2018-06-28, length:274
+509106817.txt - breakout reviews num:606
+begin:2017-10-06, end:2018-07-06, length:274
+509106962.txt - breakout reviews num:7647
+begin:2017-09-30, end:2018-07-09, length:283
+begin:2017-09-29, end:2018-03-14, length:167
+509135630.txt - breakout reviews num:802
+begin:2017-09-30, end:2018-07-14, length:288
+509135782.txt - breakout reviews num:8773
+begin:2017-09-27, end:2018-06-27, length:274
+509166537.txt - breakout reviews num:205
+begin:2017-09-26, end:2018-07-03, length:281
+509171216.txt - breakout reviews num:768
+begin:2017-09-26, end:2017-09-29, length:4
+509200557.txt - breakout reviews num:202
+begin:2017-09-28, end:2018-07-09, length:285
+509311549.txt - breakout reviews num:535
+begin:2017-09-28, end:2018-06-27, length:273
+509311681.txt - breakout reviews num:7031
+begin:2017-09-28, end:2018-07-16, length:292
+509313687.txt - breakout reviews num:1062
+begin:2017-09-28, end:2018-07-02, length:278
+509330277.txt - breakout reviews num:395
+begin:2017-09-27, end:2018-06-30, length:277
+509344144.txt - breakout reviews num:856
+begin:2017-09-27, end:2018-03-28, length:183
+509354650.txt - breakout reviews num:529
+begin:2017-09-29, end:2018-06-28, length:273
+509487389.txt - breakout reviews num:676
+begin:2017-09-29, end:2018-07-01, length:276
+509508037.txt - breakout reviews num:1469
+begin:2017-09-28, end:2018-07-10, length:286
+509512476.txt - breakout reviews num:894
+begin:2017-10-02, end:2018-06-29, length:271
+509512630.txt - breakout reviews num:307
+begin:2017-09-29, end:2018-07-02, length:277
+509518010.txt - breakout reviews num:5463
+begin:2017-09-28, end:2018-07-10, length:286
+509520111.txt - breakout reviews num:1497
+begin:2017-09-28, end:2018-06-27, length:273
+509530427.txt - breakout reviews num:9150
+begin:2017-09-28, end:2018-06-21, length:267
+509530441.txt - breakout reviews num:1093
+begin:2017-09-29, end:2018-07-11, length:286
+509530721.txt - breakout reviews num:512
+begin:2017-09-28, end:2018-07-02, length:278
+509558251.txt - breakout reviews num:920
+begin:2017-09-29, end:2018-07-09, length:284
+509573340.txt - breakout reviews num:620
+begin:2017-09-28, end:2018-07-14, length:290
+begin:2017-10-08, end:2018-06-22, length:258
+begin:2017-09-29, end:2018-07-01, length:276
+509612912.txt - breakout reviews num:2497
+begin:2017-09-29, end:2018-07-05, length:280
+begin:2017-09-29, end:2018-06-28, length:273
+509633388.txt - breakout reviews num:809
+begin:2017-09-29, end:2018-07-07, length:282
+509654690.txt - breakout reviews num:241
+begin:2017-09-29, end:2018-06-27, length:272
+509659702.txt - breakout reviews num:577
+begin:2017-09-29, end:2018-06-29, length:274
+begin:2017-10-04, end:2018-06-19, length:259
+begin:2017-10-01, end:2018-06-05, length:248
+begin:2017-09-30, end:2018-06-22, length:266
+509726542.txt - breakout reviews num:821
+begin:2017-09-30, end:2018-07-02, length:276
+509726590.txt - breakout reviews num:1367
+begin:2017-10-04, end:2018-07-09, length:279
+begin:2017-10-05, end:2018-07-03, length:272
+509726624.txt - breakout reviews num:827
+begin:2017-10-02, end:2018-02-23, length:145
+begin:2017-10-07, end:2018-06-29, length:266
+509726793.txt - breakout reviews num:2492
+begin:2017-10-07, end:2018-07-10, length:277
+509726800.txt - breakout reviews num:2562
+begin:2017-10-09, end:2018-07-05, length:270
+509726841.txt - breakout reviews num:1490
+begin:2017-10-09, end:2018-06-24, length:259
+509726846.txt - breakout reviews num:805
+begin:2017-10-09, end:2017-12-04, length:57
+509726890.txt - breakout reviews num:1574
+begin:2017-10-10, end:2018-06-14, length:248
+509726936.txt - breakout reviews num:358
+begin:2017-10-04, end:2018-06-28, length:268
+509728480.txt - breakout reviews num:341
+begin:2017-10-02, end:2018-07-14, length:286
+509728693.txt - breakout reviews num:687
+begin:2017-10-07, end:2018-07-13, length:280
+509728824.txt - breakout reviews num:622
+begin:2017-10-19, end:2018-07-08, length:263
+509728841.txt - breakout reviews num:2534
+begin:2017-10-09, end:2018-07-12, length:277
+509728845.txt - breakout reviews num:7324
+begin:2017-10-09, end:2017-12-04, length:57
+509728887.txt - breakout reviews num:824
+begin:2017-10-20, end:2017-10-21, length:2
+509781224.txt - breakout reviews num:212
+begin:2017-09-30, end:2018-06-29, length:273
+509781260.txt - breakout reviews num:5353
+begin:2017-10-06, end:2018-06-09, length:247
+begin:2017-09-30, end:2018-06-30, length:274
+509888057.txt - breakout reviews num:1969
+begin:2017-09-30, end:2018-06-28, length:272
+509922902.txt - breakout reviews num:3390
+begin:2017-10-06, end:2018-07-03, length:271
+510030693.txt - breakout reviews num:221
+begin:2017-10-02, end:2018-06-07, length:249
+510423136.txt - breakout reviews num:498
+begin:2017-10-02, end:2018-02-27, length:149
+510433554.txt - breakout reviews num:1717
+begin:2017-10-03, end:2018-07-04, length:275
+510656165.txt - breakout reviews num:1237
+begin:2017-10-09, end:2018-05-30, length:234
+510666561.txt - breakout reviews num:535
+begin:2017-10-06, end:2018-05-22, length:229
+510666577.txt - breakout reviews num:974
+begin:2017-10-03, end:2018-07-08, length:279
+510683675.txt - breakout reviews num:2656
+begin:2017-10-03, end:2018-07-16, length:287
+begin:2017-10-04, end:2018-07-08, length:278
+510942761.txt - breakout reviews num:2121
+begin:2017-10-05, end:2018-06-29, length:268
+511040995.txt - breakout reviews num:316
+begin:2017-10-05, end:2017-10-09, length:5
+511052601.txt - breakout reviews num:2545
+begin:2017-10-05, end:2018-07-14, length:283
+511105159.txt - breakout reviews num:312
+begin:2017-10-06, end:2018-07-06, length:274
+begin:2017-10-06, end:2018-07-04, length:272
+begin:2017-10-06, end:2018-07-03, length:271
+begin:2017-10-07, end:2018-06-27, length:264
+511229542.txt - breakout reviews num:253
+begin:2017-10-06, end:2018-07-06, length:274
+511236571.txt - breakout reviews num:516
+begin:2017-10-09, end:2018-06-26, length:261
+511332423.txt - breakout reviews num:387
+begin:2017-10-06, end:2018-07-14, length:282
+begin:2017-10-09, end:2018-07-07, length:272
+begin:2017-10-06, end:2018-07-06, length:274
+511364915.txt - breakout reviews num:344
+begin:2017-10-09, end:2018-07-14, length:279
+511392481.txt - breakout reviews num:415
+begin:2017-10-07, end:2018-07-05, length:272
+begin:2017-10-13, end:2018-07-05, length:266
+511678876.txt - breakout reviews num:680
+begin:2017-10-08, end:2018-06-09, length:245
+begin:2017-10-08, end:2017-10-10, length:3
+511741012.txt - breakout reviews num:227
+begin:2017-10-09, end:2018-07-10, length:275
+begin:2017-10-08, end:2018-06-25, length:261
+511820216.txt - breakout reviews num:903
+begin:2017-10-09, end:2018-06-03, length:238
+begin:2017-10-10, end:2017-10-20, length:11
+511920568.txt - breakout reviews num:3584
+begin:2017-10-11, end:2017-10-20, length:10
+511920921.txt - breakout reviews num:238
+begin:2017-10-11, end:2018-07-09, length:272
+511920985.txt - breakout reviews num:238
+begin:2017-10-09, end:2018-06-30, length:265
+begin:2017-10-10, end:2018-06-30, length:264
+511921376.txt - breakout reviews num:413
+begin:2017-10-11, end:2018-07-02, length:265
+511921537.txt - breakout reviews num:211
+begin:2017-10-11, end:2018-06-24, length:257
+begin:2017-10-10, end:2018-07-12, length:276
+begin:2017-10-09, end:2018-06-25, length:260
+begin:2017-10-12, end:2018-02-05, length:117
+511975095.txt - breakout reviews num:520
+begin:2017-10-12, end:2018-07-10, length:272
+begin:2017-10-10, end:2018-07-16, length:280
+511975120.txt - breakout reviews num:1300
+begin:2017-10-10, end:2018-07-10, length:274
+511975122.txt - breakout reviews num:1113
+begin:2017-10-10, end:2018-07-14, length:278
+511975125.txt - breakout reviews num:1664
+begin:2017-10-10, end:2018-06-29, length:263
+512063278.txt - breakout reviews num:975
+begin:2017-10-10, end:2018-07-14, length:278
+512090019.txt - breakout reviews num:9371
+begin:2017-10-10, end:2018-06-30, length:264
+begin:2017-10-10, end:2017-10-20, length:11
+512100107.txt - breakout reviews num:783
+begin:2017-10-11, end:2018-07-09, length:272
+512100117.txt - breakout reviews num:805
+begin:2017-10-12, end:2018-06-24, length:256
+begin:2017-10-10, end:2018-05-31, length:234
+begin:2017-10-10, end:2018-07-11, length:275
+512206645.txt - breakout reviews num:269
+begin:2017-10-11, end:2018-06-30, length:263
+512238768.txt - breakout reviews num:380
+begin:2017-10-13, end:2018-04-01, length:171
+begin:2017-10-15, end:2018-07-09, length:268
+begin:2017-10-12, end:2018-07-08, length:270
+512351799.txt - breakout reviews num:606
+begin:2017-10-11, end:2018-06-02, length:235
+512357642.txt - breakout reviews num:1496
+begin:2017-11-01, end:2018-07-16, length:258
+512358200.txt - breakout reviews num:450
+begin:2017-10-12, end:2018-06-30, length:262
+512358238.txt - breakout reviews num:1520
+begin:2017-10-18, end:2017-10-28, length:11
+begin:2017-10-18, end:2018-06-09, length:235
+begin:2017-10-16, end:2018-07-09, length:267
+512358609.txt - breakout reviews num:429
+begin:2017-10-15, end:2018-07-01, length:260
+512359278.txt - breakout reviews num:253
+begin:2017-10-15, end:2018-07-14, length:273
+begin:2017-10-16, end:2018-06-08, length:236
+512359560.txt - breakout reviews num:371
+begin:2017-10-12, end:2018-06-14, length:246
+512376296.txt - breakout reviews num:208
+begin:2017-10-18, end:2018-06-27, length:253
+512376322.txt - breakout reviews num:491
+begin:2017-10-16, end:2018-06-27, length:255
+begin:2017-10-16, end:2018-07-01, length:259
+512377364.txt - breakout reviews num:1578
+begin:2017-10-12, end:2018-04-11, length:182
+512434366.txt - breakout reviews num:531
+begin:2017-10-16, end:2018-06-28, length:256
+begin:2017-10-24, end:2018-06-12, length:232
+begin:2017-10-12, end:2018-07-04, length:266
+512499330.txt - breakout reviews num:2282
+begin:2017-10-12, end:2018-06-29, length:261
+begin:2017-10-12, end:2018-06-27, length:259
+begin:2017-10-13, end:2018-07-03, length:264
+512613678.txt - breakout reviews num:200
+begin:2017-10-16, end:2018-06-27, length:255
+512613695.txt - breakout reviews num:2254
+begin:2017-10-16, end:2018-06-28, length:256
+512613696.txt - breakout reviews num:639
+begin:2017-10-16, end:2018-03-27, length:163
+512613698.txt - breakout reviews num:221
+begin:2017-10-13, end:2017-11-19, length:38
+begin:2017-10-14, end:2017-12-20, length:68
+begin:2017-10-16, end:2018-07-15, length:273
+512766626.txt - breakout reviews num:766
+begin:2017-10-13, end:2018-05-22, length:222
+512770719.txt - breakout reviews num:421
+begin:2017-10-15, end:2018-01-08, length:86
+begin:2017-10-15, end:2018-06-25, length:254
+513227480.txt - breakout reviews num:677
+begin:2017-10-16, end:2018-07-12, length:270
+513298116.txt - breakout reviews num:1203
+begin:2017-10-18, end:2018-07-11, length:267
+begin:2017-10-18, end:2018-07-11, length:267
+begin:2017-10-20, end:2018-06-28, length:252
+513356855.txt - breakout reviews num:346
+begin:2017-10-18, end:2018-07-03, length:259
+begin:2017-10-16, end:2018-06-16, length:244
+begin:2013-05-23, end:2018-06-28, length:1863
+5134011.txt - breakout reviews num:1204
+begin:2017-10-18, end:2018-06-27, length:253
+513502800.txt - breakout reviews num:631
+begin:2017-10-18, end:2018-07-01, length:257
+513502826.txt - breakout reviews num:1198
+begin:2017-10-23, end:2018-07-14, length:265
+begin:2017-10-17, end:2018-05-28, length:224
+begin:2017-10-21, end:2017-10-28, length:8
+begin:2017-10-19, end:2018-07-06, length:261
+513745533.txt - breakout reviews num:284
+begin:2017-10-19, end:2018-04-07, length:171
+513766524.txt - breakout reviews num:408
+begin:2017-10-20, end:2018-07-16, length:270
+513766986.txt - breakout reviews num:941
+begin:2018-05-16, end:2018-07-05, length:51
+513791211.txt - breakout reviews num:4982
+begin:2017-10-24, end:2018-06-24, length:244
+514052852.txt - breakout reviews num:648
+begin:2017-10-20, end:2018-06-17, length:241
+begin:2017-10-20, end:2018-06-24, length:248
+514053625.txt - breakout reviews num:1360
+begin:2017-10-19, end:2018-07-05, length:260
+514054098.txt - breakout reviews num:1873
+begin:2017-10-20, end:2018-07-04, length:258
+begin:2017-10-19, end:2018-07-16, length:271
+514055280.txt - breakout reviews num:537
+begin:2017-10-20, end:2018-06-28, length:252
+514055297.txt - breakout reviews num:2637
+begin:2017-10-20, end:2018-07-15, length:269
+514055298.txt - breakout reviews num:1669
+begin:2017-10-21, end:2018-06-30, length:253
+514055481.txt - breakout reviews num:7022
+begin:2017-10-20, end:2018-07-01, length:255
+begin:2017-10-20, end:2018-06-13, length:237
+514195122.txt - breakout reviews num:1057
+begin:2017-10-24, end:2018-06-26, length:246
+begin:2017-10-20, end:2018-07-14, length:268
+begin:2017-10-20, end:2018-06-26, length:250
+begin:2017-10-20, end:2018-07-02, length:256
+514211404.txt - breakout reviews num:788
+begin:2017-10-20, end:2018-07-06, length:260
+514235010.txt - breakout reviews num:4925
+begin:2017-10-20, end:2018-06-28, length:252
+514235011.txt - breakout reviews num:1620
+begin:2017-10-21, end:2018-06-21, length:244
+514326486.txt - breakout reviews num:284
+begin:2017-10-30, end:2018-07-07, length:251
+begin:2017-10-28, end:2018-07-09, length:255
+514543382.txt - breakout reviews num:1120
+begin:2017-10-25, end:2018-07-11, length:260
+514543467.txt - breakout reviews num:269
+begin:2017-10-23, end:2018-07-12, length:263
+514761027.txt - breakout reviews num:1357
+begin:2017-10-24, end:2018-07-03, length:253
+514761233.txt - breakout reviews num:3063
+begin:2017-10-29, end:2018-06-10, length:225
+514761257.txt - breakout reviews num:1147
+begin:2017-10-27, end:2018-07-04, length:251
+514761267.txt - breakout reviews num:222
+begin:2017-10-26, end:2018-06-27, length:245
+begin:2017-10-25, end:2018-06-26, length:245
+514765385.txt - breakout reviews num:469
+begin:2017-10-25, end:2018-06-19, length:238
+514765399.txt - breakout reviews num:298
+begin:2017-10-25, end:2018-04-26, length:184
+begin:2017-10-26, end:2018-06-27, length:245
+514765420.txt - breakout reviews num:10015
+begin:2017-10-27, end:2018-07-10, length:257
+begin:2017-10-26, end:2018-07-09, length:257
+514774659.txt - breakout reviews num:445
+begin:2017-10-27, end:2018-06-20, length:237
+515143640.txt - breakout reviews num:511
+begin:2017-10-26, end:2018-06-23, length:241
+515223033.txt - breakout reviews num:859
+begin:2017-11-01, end:2018-07-13, length:255
+begin:2017-10-26, end:2018-06-29, length:247
+515269559.txt - breakout reviews num:279
+begin:2017-11-09, end:2018-06-29, length:233
+515379293.txt - breakout reviews num:550
+begin:2017-10-26, end:2018-01-17, length:84
+begin:2017-10-26, end:2018-07-03, length:251
+begin:2017-10-26, end:2018-07-11, length:259
+begin:2017-10-26, end:2018-03-16, length:142
+515422323.txt - breakout reviews num:896
+begin:2017-10-26, end:2018-07-11, length:259
+515426297.txt - breakout reviews num:1859
+begin:2017-10-26, end:2018-06-19, length:237
+515431374.txt - breakout reviews num:915
+begin:2017-10-26, end:2018-07-08, length:256
+515433533.txt - breakout reviews num:1334
+begin:2017-11-04, end:2018-04-06, length:154
+begin:2017-10-26, end:2018-07-10, length:258
+515450584.txt - breakout reviews num:621
+begin:2017-10-26, end:2018-06-26, length:244
+begin:2017-10-27, end:2018-07-10, length:257
+515454330.txt - breakout reviews num:2149
+begin:2017-10-31, end:2018-06-04, length:217
+begin:2017-12-17, end:2018-04-01, length:106
+begin:2017-10-27, end:2018-07-15, length:262
+begin:2017-10-27, end:2018-06-30, length:247
+515601126.txt - breakout reviews num:1588
+begin:2017-10-30, end:2018-06-19, length:233
+515647294.txt - breakout reviews num:599
+begin:2017-10-30, end:2018-07-02, length:246
+515647297.txt - breakout reviews num:293
+begin:2017-10-30, end:2018-07-13, length:257
+begin:2017-10-30, end:2018-05-30, length:213
+begin:2017-10-31, end:2018-06-16, length:229
+515796442.txt - breakout reviews num:828
+begin:2017-10-31, end:2018-07-05, length:248
+515802565.txt - breakout reviews num:825
+begin:2017-11-03, end:2018-07-08, length:248
+515816135.txt - breakout reviews num:693
+begin:2017-10-28, end:2018-06-29, length:245
+begin:2017-11-02, end:2018-06-29, length:240
+515822315.txt - breakout reviews num:951
+begin:2017-10-28, end:2018-06-16, length:232
+515924267.txt - breakout reviews num:501
+begin:2017-10-29, end:2018-07-02, length:247
+515925104.txt - breakout reviews num:1079
+begin:2017-10-30, end:2018-06-26, length:240
+515947224.txt - breakout reviews num:4268
+begin:2017-11-02, end:2018-07-10, length:251
+515947579.txt - breakout reviews num:1300
+begin:2017-11-02, end:2018-06-23, length:234
+515947647.txt - breakout reviews num:669
+begin:2017-10-29, end:2018-07-09, length:254
+515964379.txt - breakout reviews num:714
+begin:2017-10-29, end:2018-07-13, length:258
+516050468.txt - breakout reviews num:682
+begin:2017-10-29, end:2018-07-10, length:255
+516114636.txt - breakout reviews num:386
+begin:2017-10-30, end:2017-11-15, length:17
+begin:2017-10-30, end:2018-02-19, length:113
+begin:2017-10-30, end:2018-06-30, length:244
+516199527.txt - breakout reviews num:219
+begin:2017-10-31, end:2018-06-30, length:243
+516228011.txt - breakout reviews num:261
+begin:2017-10-31, end:2018-07-03, length:246
+516228031.txt - breakout reviews num:1577
+begin:2017-10-31, end:2018-07-07, length:250
+516318050.txt - breakout reviews num:909
+begin:2017-11-03, end:2018-06-28, length:238
+516318103.txt - breakout reviews num:1200
+begin:2017-11-03, end:2018-07-14, length:254
+516318141.txt - breakout reviews num:259
+begin:2017-11-01, end:2018-07-12, length:254
+516318205.txt - breakout reviews num:603
+begin:2017-10-31, end:2018-07-15, length:258
+516320089.txt - breakout reviews num:222
+begin:2017-11-02, end:2018-06-29, length:240
+516320327.txt - breakout reviews num:4467
+begin:2017-11-03, end:2018-07-02, length:242
+begin:2017-11-01, end:2018-06-17, length:229
+516321098.txt - breakout reviews num:329
+begin:2017-11-02, end:2018-07-10, length:251
+516321175.txt - breakout reviews num:602
+begin:2018-04-09, end:2018-07-11, length:94
+516323185.txt - breakout reviews num:203
+begin:2017-11-03, end:2018-07-13, length:253
+516358188.txt - breakout reviews num:611
+begin:2018-04-04, end:2018-07-07, length:95
+516358518.txt - breakout reviews num:436
+begin:2018-04-04, end:2018-07-05, length:93
+begin:2017-10-31, end:2018-06-13, length:226
+516371317.txt - breakout reviews num:272
+begin:2017-11-02, end:2018-06-23, length:234
+begin:2017-11-05, end:2018-07-03, length:241
+begin:2017-11-03, end:2018-07-14, length:254
+516611086.txt - breakout reviews num:1102
+begin:2017-11-03, end:2018-07-11, length:251
+516612051.txt - breakout reviews num:951
+begin:2017-11-02, end:2018-07-01, length:242
+516654011.txt - breakout reviews num:715
+begin:2017-11-04, end:2018-07-02, length:241
+516654014.txt - breakout reviews num:313
+begin:2017-11-03, end:2018-07-08, length:248
+begin:2017-11-02, end:2018-07-13, length:254
+begin:2017-11-06, end:2018-06-26, length:233
+516655133.txt - breakout reviews num:340
+begin:2017-11-04, end:2018-07-16, length:255
+begin:2017-11-04, end:2018-07-17, length:256
+516657177.txt - breakout reviews num:4025
+begin:2017-11-09, end:2018-07-09, length:243
+516657213.txt - breakout reviews num:6759
+begin:2017-11-03, end:2018-07-04, length:244
+516727258.txt - breakout reviews num:221
+begin:2017-11-03, end:2018-06-29, length:239
+516735800.txt - breakout reviews num:685
+begin:2017-11-03, end:2018-07-12, length:252
+begin:2017-11-03, end:2018-07-09, length:249
+begin:2017-11-03, end:2018-06-30, length:240
+516765174.txt - breakout reviews num:3633
+begin:2017-11-04, end:2018-07-04, length:243
+begin:2017-11-04, end:2018-07-02, length:241
+516765349.txt - breakout reviews num:300
+begin:2017-11-06, end:2018-07-07, length:244
+516819085.txt - breakout reviews num:339
+begin:2017-11-06, end:2018-06-26, length:233
+516823065.txt - breakout reviews num:536
+begin:2017-11-07, end:2018-05-03, length:178
+516823195.txt - breakout reviews num:3473
+begin:2017-11-06, end:2018-06-22, length:229
+516823381.txt - breakout reviews num:1113
+begin:2017-11-03, end:2018-07-02, length:242
+516840087.txt - breakout reviews num:286
+begin:2017-11-03, end:2018-07-04, length:244
+516857815.txt - breakout reviews num:325
+begin:2017-11-05, end:2018-05-22, length:199
+begin:2017-11-05, end:2018-07-08, length:246
+517275196.txt - breakout reviews num:203
+begin:2017-11-05, end:2018-06-28, length:236
+517277885.txt - breakout reviews num:239
+begin:2017-11-06, end:2018-06-28, length:235
+517281458.txt - breakout reviews num:405
+begin:2017-11-06, end:2018-06-29, length:236
+517337046.txt - breakout reviews num:517
+begin:2017-11-07, end:2018-07-02, length:238
+begin:2017-11-10, end:2018-07-11, length:244
+517543020.txt - breakout reviews num:935
+begin:2017-11-07, end:2018-06-26, length:232
+517548482.txt - breakout reviews num:216
+begin:2017-11-08, end:2018-07-02, length:237
+517565083.txt - breakout reviews num:1913
+begin:2017-11-08, end:2018-07-14, length:249
+begin:2017-11-13, end:2018-06-29, length:229
+begin:2017-11-09, end:2018-07-01, length:235
+517565282.txt - breakout reviews num:9130
+begin:2017-11-09, end:2018-07-15, length:249
+begin:2017-11-08, end:2018-07-16, length:251
+begin:2017-11-08, end:2018-07-05, length:240
+517567090.txt - breakout reviews num:708
+begin:2017-11-08, end:2018-07-05, length:240
+517567264.txt - breakout reviews num:9037
+begin:2017-11-09, end:2018-07-03, length:237
+517567308.txt - breakout reviews num:405
+begin:2017-11-08, end:2018-07-09, length:244
+517571040.txt - breakout reviews num:410
+begin:2017-11-08, end:2018-07-15, length:250
+517571078.txt - breakout reviews num:926
+begin:2017-11-10, end:2018-06-30, length:233
+517571371.txt - breakout reviews num:2582
+begin:2017-11-09, end:2018-06-26, length:230
+517647085.txt - breakout reviews num:364
+begin:2017-11-10, end:2018-06-15, length:218
+517647151.txt - breakout reviews num:408
+begin:2017-11-08, end:2018-06-26, length:231
+begin:2017-11-08, end:2018-06-26, length:231
+517665135.txt - breakout reviews num:293
+begin:2017-11-08, end:2018-06-30, length:235
+517690798.txt - breakout reviews num:629
+begin:2017-11-14, end:2018-07-12, length:241
+begin:2017-11-10, end:2018-06-29, length:232
+517713285.txt - breakout reviews num:3295
+begin:2017-11-10, end:2018-07-08, length:241
+517713287.txt - breakout reviews num:2805
+begin:2017-11-08, end:2018-06-17, length:222
+517746289.txt - breakout reviews num:662
+begin:2017-11-09, end:2018-07-10, length:244
+517850678.txt - breakout reviews num:282
+begin:2017-11-09, end:2018-07-01, length:235
+begin:2017-11-09, end:2018-07-11, length:245
+517887074.txt - breakout reviews num:566
+begin:2017-11-10, end:2018-07-16, length:249
+517890065.txt - breakout reviews num:3297
+begin:2017-11-13, end:2018-07-09, length:239
+begin:2017-11-09, end:2018-06-27, length:231
+517918030.txt - breakout reviews num:662
+begin:2017-11-10, end:2018-07-04, length:237
+517918979.txt - breakout reviews num:813
+begin:2017-11-10, end:2018-06-29, length:232
+517918996.txt - breakout reviews num:947
+begin:2017-11-09, end:2018-07-04, length:238
+517933613.txt - breakout reviews num:979
+begin:2017-11-10, end:2018-07-01, length:234
+begin:2017-11-10, end:2018-06-28, length:231
+begin:2017-11-11, end:2018-07-06, length:238
+518012149.txt - breakout reviews num:2026
+begin:2017-11-13, end:2018-06-24, length:224
+518014059.txt - breakout reviews num:2070
+begin:2017-11-10, end:2018-07-11, length:244
+518015048.txt - breakout reviews num:2109
+begin:2017-11-13, end:2018-07-05, length:235
+518066543.txt - breakout reviews num:347
+begin:2017-11-10, end:2018-07-10, length:243
+begin:2017-11-10, end:2018-06-30, length:233
+518066667.txt - breakout reviews num:218
+begin:2017-11-13, end:2018-06-25, length:225
+begin:2017-11-15, end:2018-07-01, length:229
+begin:2018-05-23, end:2018-07-07, length:46
+begin:2017-11-11, end:2018-07-04, length:236
+518077050.txt - breakout reviews num:1616
+begin:2017-11-13, end:2018-07-03, length:233
+518088545.txt - breakout reviews num:492
+begin:2017-11-15, end:2018-07-07, length:235
+518092114.txt - breakout reviews num:1111
+begin:2017-11-14, end:2018-07-05, length:234
+begin:2017-11-15, end:2018-06-14, length:212
+518092511.txt - breakout reviews num:859
+begin:2017-11-12, end:2018-07-02, length:233
+begin:2017-11-14, end:2018-06-30, length:229
+518094115.txt - breakout reviews num:1410
+begin:2017-11-13, end:2018-07-12, length:242
+518094139.txt - breakout reviews num:979
+begin:2017-11-13, end:2018-07-06, length:236
+begin:2017-11-13, end:2018-06-26, length:226
+begin:2017-11-10, end:2018-05-22, length:194
+518105552.txt - breakout reviews num:801
+begin:2017-11-11, end:2018-07-05, length:237
+518167926.txt - breakout reviews num:5271
+begin:2017-11-11, end:2018-06-17, length:219
+518226565.txt - breakout reviews num:2410
+begin:2017-11-11, end:2018-06-20, length:222
+begin:2017-11-11, end:2018-07-04, length:236
+518297348.txt - breakout reviews num:204
+begin:2017-11-12, end:2017-11-14, length:3
+begin:2017-11-12, end:2018-06-26, length:227
+518540371.txt - breakout reviews num:1075
+begin:2017-11-13, end:2018-06-10, length:210
+518554139.txt - breakout reviews num:802
+begin:2017-11-13, end:2018-07-15, length:245
+518594513.txt - breakout reviews num:320
+begin:2017-11-29, end:2018-06-27, length:211
+518686034.txt - breakout reviews num:9362
+begin:2017-11-15, end:2018-06-28, length:226
+518686211.txt - breakout reviews num:1037
+begin:2017-11-14, end:2018-06-13, length:212
+518771350.txt - breakout reviews num:973
+begin:2017-11-15, end:2018-06-21, length:219
+518863216.txt - breakout reviews num:582
+begin:2017-11-17, end:2018-07-03, length:229
+begin:2017-11-17, end:2018-07-10, length:236
+518863996.txt - breakout reviews num:960
+begin:2017-11-15, end:2018-07-11, length:239
+518894060.txt - breakout reviews num:271
+begin:2017-11-15, end:2018-06-28, length:226
+begin:2017-11-16, end:2018-07-14, length:241
+begin:2017-11-17, end:2018-07-06, length:232
+begin:2017-11-16, end:2018-07-09, length:236
+518894373.txt - breakout reviews num:805
+begin:2017-11-17, end:2018-07-10, length:236
+518894600.txt - breakout reviews num:286
+begin:2017-11-20, end:2018-07-08, length:231
+518894820.txt - breakout reviews num:1903
+begin:2017-11-17, end:2018-07-08, length:234
+518895654.txt - breakout reviews num:956
+begin:2017-11-20, end:2018-07-04, length:227
+518895908.txt - breakout reviews num:997
+begin:2017-11-20, end:2018-07-13, length:236
+518895995.txt - breakout reviews num:331
+begin:2017-11-16, end:2018-07-09, length:236
+518896317.txt - breakout reviews num:762
+begin:2017-11-17, end:2018-07-12, length:238
+518896600.txt - breakout reviews num:899
+begin:2017-11-29, end:2018-07-10, length:224
+begin:2017-11-16, end:2018-07-10, length:237
+begin:2017-11-16, end:2018-06-17, length:214
+begin:2017-11-17, end:2018-07-08, length:234
+518904609.txt - breakout reviews num:878
+begin:2017-11-17, end:2018-07-15, length:241
+518904648.txt - breakout reviews num:2580
+begin:2017-11-18, end:2018-06-22, length:217
+518904789.txt - breakout reviews num:314
+begin:2017-11-20, end:2018-03-28, length:129
+begin:2017-11-16, end:2018-07-05, length:232
+519096112.txt - breakout reviews num:1112
+begin:2017-11-15, end:2018-07-12, length:240
+519119858.txt - breakout reviews num:763
+begin:2017-11-15, end:2018-07-09, length:237
+begin:2017-11-17, end:2018-06-24, length:220
+519180973.txt - breakout reviews num:645
+begin:2017-11-20, end:2018-07-17, length:240
+519250019.txt - breakout reviews num:275
+begin:2017-11-20, end:2018-07-13, length:236
+519250020.txt - breakout reviews num:300
+begin:2017-11-20, end:2018-06-27, length:220
+519250024.txt - breakout reviews num:1027
+begin:2017-11-17, end:2018-07-04, length:230
+519250119.txt - breakout reviews num:331
+begin:2017-11-16, end:2018-06-18, length:215
+begin:2017-11-17, end:2018-07-14, length:240
+519265063.txt - breakout reviews num:1289
+begin:2017-11-16, end:2018-07-08, length:235
+519291186.txt - breakout reviews num:1837
+begin:2017-11-17, end:2018-06-26, length:222
+519328687.txt - breakout reviews num:4180
+begin:2017-11-17, end:2018-07-04, length:230
+begin:2017-11-17, end:2018-07-05, length:231
+begin:2017-11-17, end:2018-07-08, length:234
+519349823.txt - breakout reviews num:1003
+begin:2017-11-17, end:2018-07-01, length:227
+519367012.txt - breakout reviews num:463
+begin:2017-11-17, end:2018-07-05, length:231
+begin:2017-11-17, end:2018-07-05, length:231
+519406729.txt - breakout reviews num:1032
+begin:2017-11-17, end:2018-07-11, length:237
+begin:2017-11-17, end:2018-07-15, length:241
+519425804.txt - breakout reviews num:4840
+begin:2017-11-17, end:2018-07-15, length:241
+519434402.txt - breakout reviews num:786
+begin:2017-11-18, end:2017-11-20, length:3
+519441143.txt - breakout reviews num:447
+begin:2017-11-18, end:2018-07-05, length:230
+519653940.txt - breakout reviews num:1323
+begin:2017-11-19, end:2018-07-14, length:238
+519726333.txt - breakout reviews num:239
+begin:2017-11-19, end:2017-11-28, length:10
+519817958.txt - breakout reviews num:2166
+begin:2018-04-26, end:2018-07-02, length:68
+519909845.txt - breakout reviews num:459
+begin:2017-11-22, end:2018-07-06, length:227
+519913419.txt - breakout reviews num:491
+begin:2017-11-20, end:2018-07-09, length:232
+begin:2017-11-23, end:2018-05-11, length:170
+519935315.txt - breakout reviews num:492
+begin:2017-11-22, end:2018-07-14, length:235
+begin:2017-11-22, end:2018-07-17, length:238
+519941018.txt - breakout reviews num:4462
+begin:2017-11-24, end:2018-07-13, length:232
+519941022.txt - breakout reviews num:438
+begin:2017-11-21, end:2018-07-06, length:228
+519941070.txt - breakout reviews num:258
+begin:2017-11-21, end:2018-07-15, length:237
+begin:2017-11-21, end:2018-07-15, length:237
+519943325.txt - breakout reviews num:2323
+begin:2017-11-20, end:2018-06-30, length:223
+519991187.txt - breakout reviews num:3076
+begin:2017-11-24, end:2018-06-26, length:215
+520012673.txt - breakout reviews num:461
+begin:2017-11-24, end:2018-07-11, length:230
+520012687.txt - breakout reviews num:272
+begin:2017-11-21, end:2018-06-17, length:209
+520058533.txt - breakout reviews num:1010
+begin:2017-11-21, end:2018-07-01, length:223
+begin:2017-11-21, end:2018-06-26, length:218
+520167125.txt - breakout reviews num:1241
+begin:2017-11-21, end:2018-06-27, length:219
+520186769.txt - breakout reviews num:857
+begin:2017-11-25, end:2018-07-11, length:229
+520242560.txt - breakout reviews num:525
+begin:2017-11-23, end:2018-07-01, length:221
+begin:2017-11-22, end:2018-07-08, length:229
+begin:2017-11-24, end:2018-07-10, length:229
+520400044.txt - breakout reviews num:994
+begin:2017-11-25, end:2018-04-11, length:138
+begin:2017-11-23, end:2018-06-29, length:219
+520404027.txt - breakout reviews num:829
+begin:2017-11-24, end:2018-07-07, length:226
+begin:2017-11-24, end:2018-07-17, length:236
+520458034.txt - breakout reviews num:8502
+begin:2017-11-28, end:2018-06-26, length:211
+520458306.txt - breakout reviews num:9236
+begin:2017-11-28, end:2018-07-15, length:230
+520458623.txt - breakout reviews num:1007
+begin:2017-11-27, end:2018-07-04, length:220
+520459219.txt - breakout reviews num:959
+begin:2017-11-27, end:2018-07-11, length:227
+520459302.txt - breakout reviews num:386
+begin:2017-11-28, end:2018-07-01, length:216
+520459951.txt - breakout reviews num:1523
+begin:2017-11-23, end:2018-07-05, length:225
+520460013.txt - breakout reviews num:357
+begin:2017-12-05, end:2018-07-04, length:212
+520460158.txt - breakout reviews num:230
+begin:2017-12-25, end:2018-07-11, length:199
+begin:2017-11-23, end:2018-06-26, length:216
+520475683.txt - breakout reviews num:879
+begin:2017-11-24, end:2018-06-26, length:215
+begin:2017-12-01, end:2018-07-06, length:218
+520525412.txt - breakout reviews num:6882
+begin:2017-11-24, end:2018-07-10, length:229
+520531963.txt - breakout reviews num:3749
+begin:2017-11-24, end:2018-07-05, length:224
+begin:2017-11-24, end:2017-12-07, length:14
+520605924.txt - breakout reviews num:2385
+begin:2017-11-24, end:2018-06-28, length:217
+begin:2017-11-24, end:2018-07-01, length:220
+begin:2017-12-01, end:2018-06-22, length:204
+begin:2018-01-12, end:2018-07-01, length:171
+begin:2017-11-27, end:2018-06-27, length:213
+521176714.txt - breakout reviews num:894
+begin:2017-11-30, end:2018-06-30, length:213
+521380385.txt - breakout reviews num:561
+begin:2017-11-30, end:2018-06-30, length:213
+begin:2017-11-29, end:2018-07-05, length:219
+521416051.txt - breakout reviews num:756
+begin:2017-11-30, end:2018-06-24, length:207
+begin:2017-12-01, end:2018-07-03, length:215
+begin:2017-11-30, end:2018-06-26, length:209
+521416690.txt - breakout reviews num:273
+begin:2017-12-01, end:2018-06-27, length:209
+521416693.txt - breakout reviews num:8987
+begin:2017-12-01, end:2018-06-11, length:193
+begin:2017-12-01, end:2018-06-22, length:204
+521417781.txt - breakout reviews num:224
+begin:2017-11-29, end:2018-07-08, length:222
+521418146.txt - breakout reviews num:914
+begin:2017-11-30, end:2018-06-30, length:213
+521418347.txt - breakout reviews num:515
+begin:2017-11-30, end:2018-06-30, length:213
+begin:2017-11-30, end:2018-07-05, length:218
+521493101.txt - breakout reviews num:299
+begin:2017-12-04, end:2018-07-01, length:210
+521493881.txt - breakout reviews num:1526
+begin:2017-12-04, end:2018-07-05, length:214
+521493882.txt - breakout reviews num:1151
+begin:2017-11-30, end:2018-07-15, length:228
+521537258.txt - breakout reviews num:784
+begin:2017-11-30, end:2018-07-15, length:228
+begin:2017-11-30, end:2018-06-30, length:213
+521596669.txt - breakout reviews num:920
+begin:2017-11-30, end:2018-07-10, length:223
+521602251.txt - breakout reviews num:1092
+begin:2017-12-01, end:2018-06-15, length:197
+begin:2017-12-01, end:2018-07-12, length:224
+521697795.txt - breakout reviews num:1136
+begin:2017-12-04, end:2018-07-07, length:216
+521706401.txt - breakout reviews num:261
+begin:2017-12-01, end:2018-07-03, length:215
+begin:2017-12-01, end:2018-07-16, length:228
+begin:2017-12-01, end:2018-06-20, length:202
+521731586.txt - breakout reviews num:803
+begin:2017-12-05, end:2018-06-29, length:207
+521749251.txt - breakout reviews num:11480
+begin:2017-12-02, end:2018-06-20, length:201
+521784105.txt - breakout reviews num:573
+begin:2017-12-04, end:2018-05-11, length:159
+521784118.txt - breakout reviews num:1098
+begin:2017-12-04, end:2018-07-04, length:213
+521784134.txt - breakout reviews num:3130
+begin:2017-12-04, end:2018-04-11, length:129
+521784209.txt - breakout reviews num:2738
+begin:2017-12-02, end:2018-02-11, length:72
+begin:2017-12-02, end:2018-06-30, length:211
+521979528.txt - breakout reviews num:802
+begin:2017-12-03, end:2017-12-05, length:3
+begin:2017-12-03, end:2017-12-09, length:7
+522085404.txt - breakout reviews num:599
+begin:2017-12-13, end:2018-06-17, length:187
+begin:2017-12-03, end:2018-07-16, length:226
+522260945.txt - breakout reviews num:2621
+begin:2017-12-04, end:2018-06-28, length:207
+522282964.txt - breakout reviews num:1044
+begin:2017-12-04, end:2018-07-12, length:221
+522307641.txt - breakout reviews num:415
+begin:2017-12-05, end:2018-07-13, length:221
+begin:2017-12-04, end:2018-06-15, length:194
+522353104.txt - breakout reviews num:416
+begin:2017-12-07, end:2018-06-29, length:205
+522353173.txt - breakout reviews num:1526
+begin:2017-12-05, end:2018-07-04, length:212
+522353195.txt - breakout reviews num:8027
+begin:2017-12-06, end:2018-07-08, length:215
+522353314.txt - breakout reviews num:7881
+begin:2017-12-04, end:2018-06-26, length:205
+begin:2017-12-08, end:2018-06-27, length:202
+522429778.txt - breakout reviews num:1456
+begin:2017-12-06, end:2018-07-09, length:216
+522431891.txt - breakout reviews num:429
+begin:2017-12-08, end:2018-06-23, length:198
+522444538.txt - breakout reviews num:487
+begin:2017-12-08, end:2018-07-13, length:218
+522510384.txt - breakout reviews num:956
+begin:2017-12-09, end:2018-06-26, length:200
+522510615.txt - breakout reviews num:10595
+begin:2017-12-07, end:2018-07-08, length:214
+522510706.txt - breakout reviews num:491
+begin:2017-12-07, end:2018-07-07, length:213
+522511331.txt - breakout reviews num:5854
+begin:2017-12-08, end:2018-07-14, length:219
+522529654.txt - breakout reviews num:1603
+begin:2017-12-06, end:2018-06-27, length:204
+522591064.txt - breakout reviews num:499
+begin:2017-12-06, end:2018-07-13, length:220
+522617170.txt - breakout reviews num:874
+begin:2017-12-06, end:2018-06-28, length:205
+522617172.txt - breakout reviews num:5511
+begin:2017-12-07, end:2018-07-05, length:211
+522617477.txt - breakout reviews num:4463
+begin:2017-12-07, end:2018-06-28, length:204
+522631525.txt - breakout reviews num:1358
+begin:2017-12-07, end:2018-07-08, length:214
+522631892.txt - breakout reviews num:772
+begin:2017-12-08, end:2018-06-17, length:192
+522631899.txt - breakout reviews num:926
+begin:2017-12-06, end:2018-07-07, length:214
+522732933.txt - breakout reviews num:927
+begin:2017-12-15, end:2018-07-12, length:210
+522778000.txt - breakout reviews num:1403
+begin:2017-12-14, end:2018-07-16, length:215
+523008862.txt - breakout reviews num:416
+begin:2017-12-11, end:2018-06-28, length:200
+523030374.txt - breakout reviews num:209
+begin:2017-12-13, end:2018-06-30, length:200
+begin:2017-12-12, end:2018-07-13, length:214
+523042176.txt - breakout reviews num:1082
+begin:2017-12-11, end:2018-06-30, length:202
+523046066.txt - breakout reviews num:648
+begin:2017-12-09, end:2018-06-27, length:201
+523046136.txt - breakout reviews num:455
+begin:2017-12-08, end:2018-07-17, length:222
+523060868.txt - breakout reviews num:377
+begin:2017-12-09, end:2018-07-05, length:209
+523198270.txt - breakout reviews num:461
+begin:2017-12-12, end:2018-07-12, length:213
+523248119.txt - breakout reviews num:416
+begin:2017-12-13, end:2018-07-08, length:208
+523248272.txt - breakout reviews num:2853
+begin:2017-12-11, end:2018-07-16, length:218
+begin:2017-12-12, end:2018-07-02, length:203
+523251102.txt - breakout reviews num:919
+begin:2018-05-27, end:2018-06-27, length:32
+523251118.txt - breakout reviews num:9904
+begin:2017-12-10, end:2018-06-26, length:199
+begin:2017-12-11, end:2018-06-28, length:200
+begin:2017-12-10, end:2018-03-24, length:105
+523501574.txt - breakout reviews num:281
+begin:2017-12-10, end:2018-06-29, length:202
+523504090.txt - breakout reviews num:227
+begin:2017-12-29, end:2018-07-12, length:196
+begin:2018-03-19, end:2018-07-10, length:114
+begin:2017-12-18, end:2018-06-30, length:195
+523658940.txt - breakout reviews num:1158
+begin:2017-12-27, end:2018-06-10, length:166
+begin:2017-12-12, end:2018-07-16, length:217
+523671289.txt - breakout reviews num:8883
+begin:2017-12-11, end:2018-06-28, length:200
+begin:2017-12-13, end:2018-06-24, length:194
+523732725.txt - breakout reviews num:740
+begin:2017-12-12, end:2018-07-01, length:202
+523756204.txt - breakout reviews num:211
+begin:2017-12-13, end:2018-07-08, length:208
+524001299.txt - breakout reviews num:1042
+begin:2017-12-14, end:2018-06-27, length:196
+begin:2017-12-15, end:2018-06-27, length:195
+524003199.txt - breakout reviews num:5281
+begin:2017-12-18, end:2018-06-27, length:192
+524003251.txt - breakout reviews num:1415
+begin:2017-12-14, end:2018-07-12, length:211
+524068242.txt - breakout reviews num:1150
+begin:2017-12-14, end:2018-07-13, length:212
+524109115.txt - breakout reviews num:628
+begin:2017-12-14, end:2018-07-02, length:201
+524128365.txt - breakout reviews num:742
+begin:2017-12-18, end:2018-07-14, length:209
+524148244.txt - breakout reviews num:1006
+begin:2017-12-18, end:2018-07-07, length:202
+524148333.txt - breakout reviews num:914
+begin:2017-12-18, end:2018-07-03, length:198
+524148335.txt - breakout reviews num:341
+begin:2017-12-18, end:2018-07-14, length:209
+524148450.txt - breakout reviews num:1642
+begin:2017-12-15, end:2018-06-28, length:196
+524149078.txt - breakout reviews num:3386
+begin:2017-12-14, end:2018-03-14, length:91
+524149079.txt - breakout reviews num:558
+begin:2017-12-15, end:2018-07-14, length:212
+524149218.txt - breakout reviews num:1684
+begin:2017-12-16, end:2018-07-10, length:207
+begin:2017-12-18, end:2018-05-10, length:144
+524149366.txt - breakout reviews num:1234
+begin:2017-12-18, end:2018-07-16, length:211
+524149482.txt - breakout reviews num:530
+begin:2017-12-20, end:2018-03-28, length:99
+524149719.txt - breakout reviews num:1899
+begin:2017-12-19, end:2018-07-08, length:202
+524150269.txt - breakout reviews num:1025
+begin:2017-12-25, end:2018-07-12, length:200
+begin:2017-12-14, end:2018-07-04, length:203
+524152016.txt - breakout reviews num:398
+begin:2017-12-15, end:2018-06-17, length:185
+begin:2017-12-25, end:2018-07-08, length:196
+524152312.txt - breakout reviews num:414
+begin:2017-12-19, end:2018-07-04, length:198
+524152487.txt - breakout reviews num:1777
+begin:2017-12-19, end:2018-07-08, length:202
+begin:2017-12-19, end:2018-06-28, length:192
+524152665.txt - breakout reviews num:217
+begin:2017-12-18, end:2018-05-20, length:154
+524178109.txt - breakout reviews num:13901
+begin:2017-12-20, end:2018-07-06, length:199
+begin:2017-12-15, end:2018-07-02, length:200
+524191682.txt - breakout reviews num:364
+begin:2017-12-15, end:2018-06-24, length:192
+524191813.txt - breakout reviews num:482
+begin:2017-12-15, end:2018-07-14, length:212
+begin:2017-12-18, end:2018-07-04, length:199
+524270872.txt - breakout reviews num:697
+begin:2017-12-15, end:2018-07-07, length:205
+524272601.txt - breakout reviews num:835
+begin:2017-12-15, end:2018-07-05, length:203
+524287802.txt - breakout reviews num:269
+begin:2017-12-15, end:2018-07-03, length:201
+524290240.txt - breakout reviews num:3129
+begin:2017-12-15, end:2018-05-17, length:154
+begin:2017-12-15, end:2018-06-13, length:181
+begin:2017-12-15, end:2018-06-30, length:198
+524335502.txt - breakout reviews num:1411
+begin:2017-12-17, end:2018-06-02, length:168
+begin:2017-12-15, end:2018-06-14, length:182
+524402689.txt - breakout reviews num:3016
+begin:2017-12-16, end:2018-07-12, length:209
+524428876.txt - breakout reviews num:760
+begin:2017-12-22, end:2018-06-27, length:188
+524445228.txt - breakout reviews num:402
+begin:2017-12-25, end:2018-06-30, length:188
+524458869.txt - breakout reviews num:1093
+begin:2017-12-16, end:2018-02-24, length:71
+524483278.txt - breakout reviews num:767
+begin:2017-12-16, end:2018-07-02, length:199
+524538705.txt - breakout reviews num:998
+begin:2017-12-16, end:2018-07-12, length:209
+begin:2017-12-17, end:2018-07-11, length:207
+524624505.txt - breakout reviews num:4228
+begin:2018-01-09, end:2018-07-10, length:183
+524736110.txt - breakout reviews num:1156
+begin:2017-12-17, end:2018-01-16, length:31
+524787953.txt - breakout reviews num:1488
+begin:2017-12-18, end:2018-07-09, length:204
+524821652.txt - breakout reviews num:2622
+begin:2017-12-20, end:2018-07-05, length:198
+524868012.txt - breakout reviews num:4772
+begin:2017-12-20, end:2018-06-29, length:192
+begin:2017-12-25, end:2018-06-30, length:188
+524868123.txt - breakout reviews num:2645
+begin:2017-12-25, end:2018-07-09, length:197
+begin:2017-12-18, end:2018-07-02, length:197
+524954318.txt - breakout reviews num:1407
+begin:2018-01-03, end:2018-06-28, length:177
+525013477.txt - breakout reviews num:2282
+begin:2017-12-19, end:2018-06-26, length:190
+525016797.txt - breakout reviews num:1352
+begin:2017-12-20, end:2018-07-01, length:194
+525063503.txt - breakout reviews num:1689
+begin:2017-12-19, end:2018-07-10, length:204
+525086802.txt - breakout reviews num:3563
+begin:2017-12-22, end:2018-07-10, length:201
+525112245.txt - breakout reviews num:1053
+begin:2017-12-22, end:2018-06-25, length:186
+525112271.txt - breakout reviews num:425
+begin:2017-12-20, end:2018-05-25, length:157
+525200228.txt - breakout reviews num:589
+begin:2017-12-21, end:2018-07-03, length:195
+begin:2017-12-25, end:2018-06-26, length:184
+525238501.txt - breakout reviews num:1815
+begin:2017-12-25, end:2018-07-12, length:200
+begin:2017-12-26, end:2018-07-04, length:191
+525238873.txt - breakout reviews num:910
+begin:2017-12-27, end:2018-07-16, length:202
+525238891.txt - breakout reviews num:1453
+
